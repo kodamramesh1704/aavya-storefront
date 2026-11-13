@@ -8,7 +8,7 @@ export const brand = {
   tagline: 'Handcrafted Indian wear, made for now',
   description:
     'Contemporary Indian womenswear: kurtas, suits, sarees and festive wear, crafted with artisan communities across India.',
-  url: 'https://example.com',
+  url: 'https://aavya-storefront.vercel.app',
   logo: { text: 'AAVYA', sub: 'STUDIO', image: null as string | null }, // set image to '/brand/logo.svg' to use a file
   subBrands: [
     { slug: 'everyday', name: 'Aavya Everyday', blurb: 'Easy cottons and linens for every day.' },
