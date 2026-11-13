@@ -1,0 +1,3734 @@
+[
+  {
+    "id": "1",
+    "slug": "neel-bandhani-cotton-kurta",
+    "name": "Neel Bandhani Cotton Kurta",
+    "sku": "AV-KUR-0001",
+    "category": "kurtas",
+    "subBrand": "everyday",
+    "collections": [],
+    "occasion": [
+      "Resort",
+      "Festive"
+    ],
+    "fabric": "Cotton",
+    "technique": "Bandhani",
+    "price": 5099,
+    "compareAtPrice": null,
+    "colors": [
+      {
+        "name": "Teal",
+        "hex": "#24636A"
+      },
+      {
+        "name": "Rust",
+        "hex": "#B5532F"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "XS": 3,
+      "S": 2,
+      "M": 3,
+      "L": 6,
+      "XL": 5,
+      "XXL": 13
+    },
+    "images": [
+      {
+        "src": "/placeholder/products/neel-bandhani-cotton-kurta-1.webp",
+        "alt": "Neel Bandhani Cotton Kurta, teal, front view"
+      },
+      {
+        "src": "/placeholder/products/neel-bandhani-cotton-kurta-2.webp",
+        "alt": "Neel Bandhani Cotton Kurta, teal, back view"
+      },
+      {
+        "src": "/placeholder/products/neel-bandhani-cotton-kurta-3.webp",
+        "alt": "Neel Bandhani Cotton Kurta, teal, detail of the craftwork"
+      },
+      {
+        "src": "/placeholder/products/neel-bandhani-cotton-kurta-4.webp",
+        "alt": "Neel Bandhani Cotton Kurta, teal, styled look"
+      },
+      {
+        "src": "/placeholder/products/neel-bandhani-cotton-kurta-5.webp",
+        "alt": "Neel Bandhani Cotton Kurta, teal, fabric texture close-up"
+      },
+      {
+        "src": "/placeholder/products/neel-bandhani-cotton-kurta-6.webp",
+        "alt": "Neel Bandhani Cotton Kurta, teal, side view"
+      }
+    ],
+    "description": "A bandhani kurta in cotton, finished by hand. Placeholder description: replace with client copy.",
+    "details": [
+      "Bandhani detailing",
+      "Relaxed fit; true to size",
+      "Cotton with soft lining where needed",
+      "Made in India"
+    ],
+    "care": [
+      "Hand wash cold, separately",
+      "Dry in shade",
+      "Warm iron on reverse"
+    ],
+    "tags": [
+      "new"
+    ],
+    "createdAt": "2026-10-19T00:00:00.000Z",
+    "popularity": 894
+  },
+  {
+    "id": "2",
+    "slug": "leher-zari-mul-cotton-kurta",
+    "name": "Leher Zari Mul Cotton Kurta",
+    "sku": "AV-KUR-0002",
+    "category": "kurtas",
+    "subBrand": "everyday",
+    "collections": [],
+    "occasion": [
+      "Wedding Guest"
+    ],
+    "fabric": "Mul Cotton",
+    "technique": "Zari",
+    "price": 3499,
+    "compareAtPrice": null,
+    "colors": [
+      {
+        "name": "Teal",
+        "hex": "#24636A"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "XS": 12,
+      "S": 2,
+      "M": 14,
+      "L": 0,
+      "XL": 0,
+      "XXL": 14
+    },
+    "images": [
+      {
+        "src": "/placeholder/products/leher-zari-mul-cotton-kurta-1.webp",
+        "alt": "Leher Zari Mul Cotton Kurta, teal, front view"
+      },
+      {
+        "src": "/placeholder/products/leher-zari-mul-cotton-kurta-2.webp",
+        "alt": "Leher Zari Mul Cotton Kurta, teal, back view"
+      },
+      {
+        "src": "/placeholder/products/leher-zari-mul-cotton-kurta-3.webp",
+        "alt": "Leher Zari Mul Cotton Kurta, teal, detail of the craftwork"
+      },
+      {
+        "src": "/placeholder/products/leher-zari-mul-cotton-kurta-4.webp",
+        "alt": "Leher Zari Mul Cotton Kurta, teal, styled look"
+      }
+    ],
+    "description": "A zari kurta in mul cotton, finished by hand. Placeholder description: replace with client copy.",
+    "details": [
+      "Zari detailing",
+      "Relaxed fit; true to size",
+      "Mul Cotton with soft lining where needed",
+      "Made in India"
+    ],
+    "care": [
+      "Hand wash cold, separately",
+      "Dry in shade",
+      "Warm iron on reverse"
+    ],
+    "tags": [
+      "bestseller"
+    ],
+    "createdAt": "2026-09-26T00:00:00.000Z",
+    "popularity": 412
+  },
+  {
+    "id": "3",
+    "slug": "mehr-bandhani-cotton-kurta",
+    "name": "Mehr Bandhani Cotton Kurta",
+    "sku": "AV-KUR-0003",
+    "category": "kurtas",
+    "subBrand": "couture",
+    "collections": [],
+    "occasion": [
+      "Resort"
+    ],
+    "fabric": "Cotton",
+    "technique": "Bandhani",
+    "price": 1999,
+    "compareAtPrice": null,
+    "colors": [
+      {
+        "name": "Indigo",
+        "hex": "#2F3E6B"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "XS": 9,
+      "S": 4,
+      "M": 6,
+      "L": 3,
+      "XL": 13,
+      "XXL": 1
+    },
+    "images": [
+      {
+        "src": "/placeholder/products/mehr-bandhani-cotton-kurta-1.webp",
+        "alt": "Mehr Bandhani Cotton Kurta, indigo, front view"
+      },
+      {
+        "src": "/placeholder/products/mehr-bandhani-cotton-kurta-2.webp",
+        "alt": "Mehr Bandhani Cotton Kurta, indigo, back view"
+      },
+      {
+        "src": "/placeholder/products/mehr-bandhani-cotton-kurta-3.webp",
+        "alt": "Mehr Bandhani Cotton Kurta, indigo, detail of the craftwork"
+      },
+      {
+        "src": "/placeholder/products/mehr-bandhani-cotton-kurta-4.webp",
+        "alt": "Mehr Bandhani Cotton Kurta, indigo, styled look"
+      },
+      {
+        "src": "/placeholder/products/mehr-bandhani-cotton-kurta-5.webp",
+        "alt": "Mehr Bandhani Cotton Kurta, indigo, fabric texture close-up"
+      },
+      {
+        "src": "/placeholder/products/mehr-bandhani-cotton-kurta-6.webp",
+        "alt": "Mehr Bandhani Cotton Kurta, indigo, side view"
+      }
+    ],
+    "description": "A bandhani kurta in cotton, finished by hand. Placeholder description: replace with client copy.",
+    "details": [
+      "Bandhani detailing",
+      "Relaxed fit; true to size",
+      "Cotton with soft lining where needed",
+      "Made in India"
+    ],
+    "care": [
+      "Hand wash cold, separately",
+      "Dry in shade",
+      "Warm iron on reverse"
+    ],
+    "tags": [
+      "new"
+    ],
+    "createdAt": "2026-10-10T00:00:00.000Z",
+    "popularity": 579
+  },
+  {
+    "id": "4",
+    "slug": "neel-block-printed-crepe-kurta",
+    "name": "Neel Block-Printed Crepe Kurta",
+    "sku": "AV-KUR-0004",
+    "category": "kurtas",
+    "subBrand": "everyday",
+    "collections": [
+      "summer-linen"
+    ],
+    "occasion": [
+      "Festive",
+      "Wedding Guest"
+    ],
+    "fabric": "Crepe",
+    "technique": "Block-Printed",
+    "price": 3799,
+    "compareAtPrice": null,
+    "colors": [
+      {
+        "name": "Blush",
+        "hex": "#E3B5A8"
+      },
+      {
+        "name": "Ivory",
+        "hex": "#EFE6D4"
+      },
+      {
+        "name": "Teal",
+        "hex": "#24636A"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "XS": 4,
+      "S": 11,
+      "M": 5,
+      "L": 1,
+      "XL": 5,
+      "XXL": 9
+    },
+    "images": [
+      {
+        "src": "/placeholder/products/neel-block-printed-crepe-kurta-1.webp",
+        "alt": "Neel Block-Printed Crepe Kurta, blush, front view"
+      },
+      {
+        "src": "/placeholder/products/neel-block-printed-crepe-kurta-2.webp",
+        "alt": "Neel Block-Printed Crepe Kurta, blush, back view"
+      },
+      {
+        "src": "/placeholder/products/neel-block-printed-crepe-kurta-3.webp",
+        "alt": "Neel Block-Printed Crepe Kurta, blush, detail of the craftwork"
+      },
+      {
+        "src": "/placeholder/products/neel-block-printed-crepe-kurta-4.webp",
+        "alt": "Neel Block-Printed Crepe Kurta, blush, styled look"
+      },
+      {
+        "src": "/placeholder/products/neel-block-printed-crepe-kurta-5.webp",
+        "alt": "Neel Block-Printed Crepe Kurta, blush, fabric texture close-up"
+      }
+    ],
+    "description": "A block-printed kurta in crepe, finished by hand. Placeholder description: replace with client copy.",
+    "details": [
+      "Block-Printed detailing",
+      "Relaxed fit; true to size",
+      "Crepe with soft lining where needed",
+      "Made in India"
+    ],
+    "care": [
+      "Hand wash cold, separately",
+      "Dry in shade",
+      "Warm iron on reverse"
+    ],
+    "tags": [],
+    "createdAt": "2026-08-27T00:00:00.000Z",
+    "popularity": 492
+  },
+  {
+    "id": "5",
+    "slug": "sitara-embroidered-silk-kurta",
+    "name": "Sitara Embroidered Silk Kurta",
+    "sku": "AV-KUR-0005",
+    "category": "kurtas",
+    "subBrand": "couture",
+    "collections": [],
+    "occasion": [
+      "Resort",
+      "Everyday"
+    ],
+    "fabric": "Silk",
+    "technique": "Embroidered",
+    "price": 1499,
+    "compareAtPrice": 1999,
+    "colors": [
+      {
+        "name": "Sage",
+        "hex": "#8FA382"
+      },
+      {
+        "name": "Ivory",
+        "hex": "#EFE6D4"
+      },
+      {
+        "name": "Mustard",
+        "hex": "#C9962E"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "XS": 11,
+      "S": 9,
+      "M": 12,
+      "L": 0,
+      "XL": 3,
+      "XXL": 6
+    },
+    "images": [
+      {
+        "src": "/placeholder/products/sitara-embroidered-silk-kurta-1.webp",
+        "alt": "Sitara Embroidered Silk Kurta, sage, front view"
+      },
+      {
+        "src": "/placeholder/products/sitara-embroidered-silk-kurta-2.webp",
+        "alt": "Sitara Embroidered Silk Kurta, sage, back view"
+      },
+      {
+        "src": "/placeholder/products/sitara-embroidered-silk-kurta-3.webp",
+        "alt": "Sitara Embroidered Silk Kurta, sage, detail of the craftwork"
+      },
+      {
+        "src": "/placeholder/products/sitara-embroidered-silk-kurta-4.webp",
+        "alt": "Sitara Embroidered Silk Kurta, sage, styled look"
+      },
+      {
+        "src": "/placeholder/products/sitara-embroidered-silk-kurta-5.webp",
+        "alt": "Sitara Embroidered Silk Kurta, sage, fabric texture close-up"
+      }
+    ],
+    "description": "A embroidered kurta in silk, finished by hand. Placeholder description: replace with client copy.",
+    "details": [
+      "Embroidered detailing",
+      "Relaxed fit; true to size",
+      "Silk with soft lining where needed",
+      "Made in India"
+    ],
+    "care": [
+      "Dry clean only",
+      "Store in a muslin bag",
+      "Steam iron on reverse"
+    ],
+    "tags": [
+      "bestseller"
+    ],
+    "createdAt": "2026-08-26T00:00:00.000Z",
+    "popularity": 162
+  },
+  {
+    "id": "6",
+    "slug": "leher-ikat-mul-cotton-kurta",
+    "name": "Leher Ikat Mul Cotton Kurta",
+    "sku": "AV-KUR-0006",
+    "category": "kurtas",
+    "subBrand": "everyday",
+    "collections": [
+      "festive"
+    ],
+    "occasion": [
+      "Everyday",
+      "Workwear"
+    ],
+    "fabric": "Mul Cotton",
+    "technique": "Ikat",
+    "price": 1799,
+    "compareAtPrice": 2999,
+    "colors": [
+      {
+        "name": "Sage",
+        "hex": "#8FA382"
+      },
+      {
+        "name": "Indigo",
+        "hex": "#2F3E6B"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "XS": 3,
+      "S": 9,
+      "M": 0,
+      "L": 0,
+      "XL": 5,
+      "XXL": 10
+    },
+    "images": [
+      {
+        "src": "/placeholder/products/leher-ikat-mul-cotton-kurta-1.webp",
+        "alt": "Leher Ikat Mul Cotton Kurta, sage, front view"
+      },
+      {
+        "src": "/placeholder/products/leher-ikat-mul-cotton-kurta-2.webp",
+        "alt": "Leher Ikat Mul Cotton Kurta, sage, back view"
+      },
+      {
+        "src": "/placeholder/products/leher-ikat-mul-cotton-kurta-3.webp",
+        "alt": "Leher Ikat Mul Cotton Kurta, sage, detail of the craftwork"
+      },
+      {
+        "src": "/placeholder/products/leher-ikat-mul-cotton-kurta-4.webp",
+        "alt": "Leher Ikat Mul Cotton Kurta, sage, styled look"
+      }
+    ],
+    "description": "A ikat kurta in mul cotton, finished by hand. Placeholder description: replace with client copy.",
+    "details": [
+      "Ikat detailing",
+      "Relaxed fit; true to size",
+      "Mul Cotton with soft lining where needed",
+      "Made in India"
+    ],
+    "care": [
+      "Hand wash cold, separately",
+      "Dry in shade",
+      "Warm iron on reverse"
+    ],
+    "tags": [
+      "new"
+    ],
+    "createdAt": "2026-10-01T00:00:00.000Z",
+    "popularity": 904
+  },
+  {
+    "id": "7",
+    "slug": "inaaya-mirror-work-cotton-suit-set",
+    "name": "Inaaya Mirror-Work Cotton Suit Set",
+    "sku": "AV-SUI-0007",
+    "category": "suit-sets",
+    "subBrand": "everyday",
+    "collections": [
+      "summer-linen"
+    ],
+    "occasion": [
+      "Festive",
+      "Wedding Guest"
+    ],
+    "fabric": "Cotton",
+    "technique": "Mirror-Work",
+    "price": 7099,
+    "compareAtPrice": null,
+    "colors": [
+      {
+        "name": "Teal",
+        "hex": "#24636A"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "XS": 7,
+      "S": 13,
+      "M": 0,
+      "L": 14,
+      "XL": 0,
+      "XXL": 0
+    },
+    "images": [
+      {
+        "src": "/placeholder/products/inaaya-mirror-work-cotton-suit-set-1.webp",
+        "alt": "Inaaya Mirror-Work Cotton Suit Set, teal, front view"
+      },
+      {
+        "src": "/placeholder/products/inaaya-mirror-work-cotton-suit-set-2.webp",
+        "alt": "Inaaya Mirror-Work Cotton Suit Set, teal, back view"
+      },
+      {
+        "src": "/placeholder/products/inaaya-mirror-work-cotton-suit-set-3.webp",
+        "alt": "Inaaya Mirror-Work Cotton Suit Set, teal, detail of the craftwork"
+      },
+      {
+        "src": "/placeholder/products/inaaya-mirror-work-cotton-suit-set-4.webp",
+        "alt": "Inaaya Mirror-Work Cotton Suit Set, teal, styled look"
+      },
+      {
+        "src": "/placeholder/products/inaaya-mirror-work-cotton-suit-set-5.webp",
+        "alt": "Inaaya Mirror-Work Cotton Suit Set, teal, fabric texture close-up"
+      }
+    ],
+    "description": "A mirror-work suit set in cotton, finished by hand. Placeholder description: replace with client copy.",
+    "details": [
+      "Mirror-Work detailing",
+      "Relaxed fit; true to size",
+      "Cotton with soft lining where needed",
+      "Made in India"
+    ],
+    "care": [
+      "Hand wash cold, separately",
+      "Dry in shade",
+      "Warm iron on reverse"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-11T00:00:00.000Z",
+    "popularity": 191
+  },
+  {
+    "id": "8",
+    "slug": "jharna-block-printed-mul-cotton-suit-set",
+    "name": "Jharna Block-Printed Mul Cotton Suit Set",
+    "sku": "AV-SUI-0008",
+    "category": "suit-sets",
+    "subBrand": "couture",
+    "collections": [
+      "festive"
+    ],
+    "occasion": [
+      "Festive"
+    ],
+    "fabric": "Mul Cotton",
+    "technique": "Block-Printed",
+    "price": 11049,
+    "compareAtPrice": 12299,
+    "colors": [
+      {
+        "name": "Blush",
+        "hex": "#E3B5A8"
+      },
+      {
+        "name": "Maroon",
+        "hex": "#6E1F2B"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "XS": 10,
+      "S": 1,
+      "M": 0,
+      "L": 1,
+      "XL": 0,
+      "XXL": 2
+    },
+    "images": [
+      {
+        "src": "/placeholder/products/jharna-block-printed-mul-cotton-suit-set-1.webp",
+        "alt": "Jharna Block-Printed Mul Cotton Suit Set, blush, front view"
+      },
+      {
+        "src": "/placeholder/products/jharna-block-printed-mul-cotton-suit-set-2.webp",
+        "alt": "Jharna Block-Printed Mul Cotton Suit Set, blush, back view"
+      },
+      {
+        "src": "/placeholder/products/jharna-block-printed-mul-cotton-suit-set-3.webp",
+        "alt": "Jharna Block-Printed Mul Cotton Suit Set, blush, detail of the craftwork"
+      },
+      {
+        "src": "/placeholder/products/jharna-block-printed-mul-cotton-suit-set-4.webp",
+        "alt": "Jharna Block-Printed Mul Cotton Suit Set, blush, styled look"
+      }
+    ],
+    "description": "A block-printed suit set in mul cotton, finished by hand. Placeholder description: replace with client copy.",
+    "details": [
+      "Block-Printed detailing",
+      "Relaxed fit; true to size",
+      "Mul Cotton with soft lining where needed",
+      "Made in India"
+    ],
+    "care": [
+      "Hand wash cold, separately",
+      "Dry in shade",
+      "Warm iron on reverse"
+    ],
+    "tags": [
+      "new",
+      "bestseller"
+    ],
+    "createdAt": "2026-09-09T00:00:00.000Z",
+    "popularity": 786
+  },
+  {
+    "id": "9",
+    "slug": "inaaya-zari-mul-cotton-suit-set",
+    "name": "Inaaya Zari Mul Cotton Suit Set",
+    "sku": "AV-SUI-0009",
+    "category": "suit-sets",
+    "subBrand": "couture",
+    "collections": [
+      "summer-linen"
+    ],
+    "occasion": [
+      "Resort",
+      "Everyday"
+    ],
+    "fabric": "Mul Cotton",
+    "technique": "Zari",
+    "price": 11299,
+    "compareAtPrice": null,
+    "colors": [
+      {
+        "name": "Rust",
+        "hex": "#B5532F"
+      },
+      {
+        "name": "Sage",
+        "hex": "#8FA382"
+      },
+      {
+        "name": "Emerald",
+        "hex": "#1F6B4C"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "XS": 0,
+      "S": 0,
+      "M": 6,
+      "L": 0,
+      "XL": 7,
+      "XXL": 5
+    },
+    "images": [
+      {
+        "src": "/placeholder/products/inaaya-zari-mul-cotton-suit-set-1.webp",
+        "alt": "Inaaya Zari Mul Cotton Suit Set, rust, front view"
+      },
+      {
+        "src": "/placeholder/products/inaaya-zari-mul-cotton-suit-set-2.webp",
+        "alt": "Inaaya Zari Mul Cotton Suit Set, rust, back view"
+      },
+      {
+        "src": "/placeholder/products/inaaya-zari-mul-cotton-suit-set-3.webp",
+        "alt": "Inaaya Zari Mul Cotton Suit Set, rust, detail of the craftwork"
+      },
+      {
+        "src": "/placeholder/products/inaaya-zari-mul-cotton-suit-set-4.webp",
+        "alt": "Inaaya Zari Mul Cotton Suit Set, rust, styled look"
+      }
+    ],
+    "description": "A zari suit set in mul cotton, finished by hand. Placeholder description: replace with client copy.",
+    "details": [
+      "Zari detailing",
+      "Relaxed fit; true to size",
+      "Mul Cotton with soft lining where needed",
+      "Made in India"
+    ],
+    "care": [
+      "Hand wash cold, separately",
+      "Dry in shade",
+      "Warm iron on reverse"
+    ],
+    "tags": [],
+    "createdAt": "2026-07-26T00:00:00.000Z",
+    "popularity": 745
+  },
+  {
+    "id": "10",
+    "slug": "saba-zari-linen-suit-set",
+    "name": "Saba Zari Linen Suit Set",
+    "sku": "AV-SUI-0010",
+    "category": "suit-sets",
+    "subBrand": "couture",
+    "collections": [],
+    "occasion": [
+      "Festive"
+    ],
+    "fabric": "Linen",
+    "technique": "Zari",
+    "price": 9549,
+    "compareAtPrice": 10599,
+    "colors": [
+      {
+        "name": "Indigo",
+        "hex": "#2F3E6B"
+      },
+      {
+        "name": "Sage",
+        "hex": "#8FA382"
+      },
+      {
+        "name": "Rust",
+        "hex": "#B5532F"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "XS": 8,
+      "S": 13,
+      "M": 3,
+      "L": 11,
+      "XL": 11,
+      "XXL": 5
+    },
+    "images": [
+      {
+        "src": "/placeholder/products/saba-zari-linen-suit-set-1.webp",
+        "alt": "Saba Zari Linen Suit Set, indigo, front view"
+      },
+      {
+        "src": "/placeholder/products/saba-zari-linen-suit-set-2.webp",
+        "alt": "Saba Zari Linen Suit Set, indigo, back view"
+      },
+      {
+        "src": "/placeholder/products/saba-zari-linen-suit-set-3.webp",
+        "alt": "Saba Zari Linen Suit Set, indigo, detail of the craftwork"
+      },
+      {
+        "src": "/placeholder/products/saba-zari-linen-suit-set-4.webp",
+        "alt": "Saba Zari Linen Suit Set, indigo, styled look"
+      },
+      {
+        "src": "/placeholder/products/saba-zari-linen-suit-set-5.webp",
+        "alt": "Saba Zari Linen Suit Set, indigo, fabric texture close-up"
+      },
+      {
+        "src": "/placeholder/products/saba-zari-linen-suit-set-6.webp",
+        "alt": "Saba Zari Linen Suit Set, indigo, side view"
+      }
+    ],
+    "description": "A zari suit set in linen, finished by hand. Placeholder description: replace with client copy.",
+    "details": [
+      "Zari detailing",
+      "Relaxed fit; true to size",
+      "Linen with soft lining where needed",
+      "Made in India"
+    ],
+    "care": [
+      "Hand wash cold, separately",
+      "Dry in shade",
+      "Warm iron on reverse"
+    ],
+    "tags": [],
+    "createdAt": "2026-07-15T00:00:00.000Z",
+    "popularity": 296
+  },
+  {
+    "id": "11",
+    "slug": "saba-block-printed-cotton-suit-set",
+    "name": "Saba Block-Printed Cotton Suit Set",
+    "sku": "AV-SUI-0011",
+    "category": "suit-sets",
+    "subBrand": "couture",
+    "collections": [
+      "festive"
+    ],
+    "occasion": [
+      "Wedding Guest",
+      "Workwear"
+    ],
+    "fabric": "Cotton",
+    "technique": "Block-Printed",
+    "price": 9099,
+    "compareAtPrice": 11399,
+    "colors": [
+      {
+        "name": "Mustard",
+        "hex": "#C9962E"
+      },
+      {
+        "name": "Ivory",
+        "hex": "#EFE6D4"
+      },
+      {
+        "name": "Teal",
+        "hex": "#24636A"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "XS": 12,
+      "S": 11,
+      "M": 1,
+      "L": 12,
+      "XL": 3,
+      "XXL": 14
+    },
+    "images": [
+      {
+        "src": "/placeholder/products/saba-block-printed-cotton-suit-set-1.webp",
+        "alt": "Saba Block-Printed Cotton Suit Set, mustard, front view"
+      },
+      {
+        "src": "/placeholder/products/saba-block-printed-cotton-suit-set-2.webp",
+        "alt": "Saba Block-Printed Cotton Suit Set, mustard, back view"
+      },
+      {
+        "src": "/placeholder/products/saba-block-printed-cotton-suit-set-3.webp",
+        "alt": "Saba Block-Printed Cotton Suit Set, mustard, detail of the craftwork"
+      },
+      {
+        "src": "/placeholder/products/saba-block-printed-cotton-suit-set-4.webp",
+        "alt": "Saba Block-Printed Cotton Suit Set, mustard, styled look"
+      }
+    ],
+    "description": "A block-printed suit set in cotton, finished by hand. Placeholder description: replace with client copy.",
+    "details": [
+      "Block-Printed detailing",
+      "Relaxed fit; true to size",
+      "Cotton with soft lining where needed",
+      "Made in India"
+    ],
+    "care": [
+      "Hand wash cold, separately",
+      "Dry in shade",
+      "Warm iron on reverse"
+    ],
+    "tags": [
+      "new"
+    ],
+    "createdAt": "2026-10-29T00:00:00.000Z",
+    "popularity": 924
+  },
+  {
+    "id": "12",
+    "slug": "kiran-bandhani-linen-suit-set",
+    "name": "Kiran Bandhani Linen Suit Set",
+    "sku": "AV-SUI-0012",
+    "category": "suit-sets",
+    "subBrand": "everyday",
+    "collections": [
+      "festive"
+    ],
+    "occasion": [
+      "Wedding Guest"
+    ],
+    "fabric": "Linen",
+    "technique": "Bandhani",
+    "price": 5599,
+    "compareAtPrice": null,
+    "colors": [
+      {
+        "name": "Sage",
+        "hex": "#8FA382"
+      },
+      {
+        "name": "Black",
+        "hex": "#222222"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "XS": 0,
+      "S": 8,
+      "M": 9,
+      "L": 0,
+      "XL": 8,
+      "XXL": 6
+    },
+    "images": [
+      {
+        "src": "/placeholder/products/kiran-bandhani-linen-suit-set-1.webp",
+        "alt": "Kiran Bandhani Linen Suit Set, sage, front view"
+      },
+      {
+        "src": "/placeholder/products/kiran-bandhani-linen-suit-set-2.webp",
+        "alt": "Kiran Bandhani Linen Suit Set, sage, back view"
+      },
+      {
+        "src": "/placeholder/products/kiran-bandhani-linen-suit-set-3.webp",
+        "alt": "Kiran Bandhani Linen Suit Set, sage, detail of the craftwork"
+      },
+      {
+        "src": "/placeholder/products/kiran-bandhani-linen-suit-set-4.webp",
+        "alt": "Kiran Bandhani Linen Suit Set, sage, styled look"
+      },
+      {
+        "src": "/placeholder/products/kiran-bandhani-linen-suit-set-5.webp",
+        "alt": "Kiran Bandhani Linen Suit Set, sage, fabric texture close-up"
+      }
+    ],
+    "description": "A bandhani suit set in linen, finished by hand. Placeholder description: replace with client copy.",
+    "details": [
+      "Bandhani detailing",
+      "Relaxed fit; true to size",
+      "Linen with soft lining where needed",
+      "Made in India"
+    ],
+    "care": [
+      "Hand wash cold, separately",
+      "Dry in shade",
+      "Warm iron on reverse"
+    ],
+    "tags": [
+      "new"
+    ],
+    "createdAt": "2026-07-18T00:00:00.000Z",
+    "popularity": 298
+  },
+  {
+    "id": "13",
+    "slug": "bela-hand-painted-linen-saree",
+    "name": "Bela Hand-Painted Linen Saree",
+    "sku": "AV-SAR-0013",
+    "category": "sarees",
+    "subBrand": "couture",
+    "collections": [
+      "festive"
+    ],
+    "occasion": [
+      "Festive"
+    ],
+    "fabric": "Linen",
+    "technique": "Hand-Painted",
+    "price": 17699,
+    "compareAtPrice": null,
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#222222"
+      }
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "stock": {
+      "Free Size": 9
+    },
+    "images": [
+      {
+        "src": "/placeholder/products/bela-hand-painted-linen-saree-1.webp",
+        "alt": "Bela Hand-Painted Linen Saree, black, front view"
+      },
+      {
+        "src": "/placeholder/products/bela-hand-painted-linen-saree-2.webp",
+        "alt": "Bela Hand-Painted Linen Saree, black, back view"
+      },
+      {
+        "src": "/placeholder/products/bela-hand-painted-linen-saree-3.webp",
+        "alt": "Bela Hand-Painted Linen Saree, black, detail of the craftwork"
+      },
+      {
+        "src": "/placeholder/products/bela-hand-painted-linen-saree-4.webp",
+        "alt": "Bela Hand-Painted Linen Saree, black, styled look"
+      },
+      {
+        "src": "/placeholder/products/bela-hand-painted-linen-saree-5.webp",
+        "alt": "Bela Hand-Painted Linen Saree, black, fabric texture close-up"
+      }
+    ],
+    "description": "A hand-painted saree in linen, finished by hand. Placeholder description: replace with client copy.",
+    "details": [
+      "Hand-Painted detailing",
+      "Standard size",
+      "Linen with soft lining where needed",
+      "Made in India"
+    ],
+    "care": [
+      "Hand wash cold, separately",
+      "Dry in shade",
+      "Warm iron on reverse"
+    ],
+    "tags": [],
+    "createdAt": "2026-09-09T00:00:00.000Z",
+    "popularity": 254
+  },
+  {
+    "id": "14",
+    "slug": "kiran-block-printed-silk-saree",
+    "name": "Kiran Block-Printed Silk Saree",
+    "sku": "AV-SAR-0014",
+    "category": "sarees",
+    "subBrand": "couture",
+    "collections": [],
+    "occasion": [
+      "Festive"
+    ],
+    "fabric": "Silk",
+    "technique": "Block-Printed",
+    "price": 9999,
+    "compareAtPrice": 16699,
+    "colors": [
+      {
+        "name": "Indigo",
+        "hex": "#2F3E6B"
+      },
+      {
+        "name": "Emerald",
+        "hex": "#1F6B4C"
+      },
+      {
+        "name": "Lilac",
+        "hex": "#B7A4C9"
+      }
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "stock": {
+      "Free Size": 2
+    },
+    "images": [
+      {
+        "src": "/placeholder/products/kiran-block-printed-silk-saree-1.webp",
+        "alt": "Kiran Block-Printed Silk Saree, indigo, front view"
+      },
+      {
+        "src": "/placeholder/products/kiran-block-printed-silk-saree-2.webp",
+        "alt": "Kiran Block-Printed Silk Saree, indigo, back view"
+      },
+      {
+        "src": "/placeholder/products/kiran-block-printed-silk-saree-3.webp",
+        "alt": "Kiran Block-Printed Silk Saree, indigo, detail of the craftwork"
+      },
+      {
+        "src": "/placeholder/products/kiran-block-printed-silk-saree-4.webp",
+        "alt": "Kiran Block-Printed Silk Saree, indigo, styled look"
+      },
+      {
+        "src": "/placeholder/products/kiran-block-printed-silk-saree-5.webp",
+        "alt": "Kiran Block-Printed Silk Saree, indigo, fabric texture close-up"
+      },
+      {
+        "src": "/placeholder/products/kiran-block-printed-silk-saree-6.webp",
+        "alt": "Kiran Block-Printed Silk Saree, indigo, side view"
+      }
+    ],
+    "description": "A block-printed saree in silk, finished by hand. Placeholder description: replace with client copy.",
+    "details": [
+      "Block-Printed detailing",
+      "Standard size",
+      "Silk with soft lining where needed",
+      "Made in India"
+    ],
+    "care": [
+      "Dry clean only",
+      "Store in a muslin bag",
+      "Steam iron on reverse"
+    ],
+    "tags": [
+      "bestseller"
+    ],
+    "createdAt": "2026-08-08T00:00:00.000Z",
+    "popularity": 71
+  },
+  {
+    "id": "15",
+    "slug": "pankh-block-printed-cotton-saree",
+    "name": "Pankh Block-Printed Cotton Saree",
+    "sku": "AV-SAR-0015",
+    "category": "sarees",
+    "subBrand": "couture",
+    "collections": [],
+    "occasion": [
+      "Wedding Guest"
+    ],
+    "fabric": "Cotton",
+    "technique": "Block-Printed",
+    "price": 12249,
+    "compareAtPrice": 20399,
+    "colors": [
+      {
+        "name": "Sage",
+        "hex": "#8FA382"
+      },
+      {
+        "name": "Indigo",
+        "hex": "#2F3E6B"
+      }
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "stock": {
+      "Free Size": 2
+    },
+    "images": [
+      {
+        "src": "/placeholder/products/pankh-block-printed-cotton-saree-1.webp",
+        "alt": "Pankh Block-Printed Cotton Saree, sage, front view"
+      },
+      {
+        "src": "/placeholder/products/pankh-block-printed-cotton-saree-2.webp",
+        "alt": "Pankh Block-Printed Cotton Saree, sage, back view"
+      },
+      {
+        "src": "/placeholder/products/pankh-block-printed-cotton-saree-3.webp",
+        "alt": "Pankh Block-Printed Cotton Saree, sage, detail of the craftwork"
+      },
+      {
+        "src": "/placeholder/products/pankh-block-printed-cotton-saree-4.webp",
+        "alt": "Pankh Block-Printed Cotton Saree, sage, styled look"
+      },
+      {
+        "src": "/placeholder/products/pankh-block-printed-cotton-saree-5.webp",
+        "alt": "Pankh Block-Printed Cotton Saree, sage, fabric texture close-up"
+      }
+    ],
+    "description": "A block-printed saree in cotton, finished by hand. Placeholder description: replace with client copy.",
+    "details": [
+      "Block-Printed detailing",
+      "Standard size",
+      "Cotton with soft lining where needed",
+      "Made in India"
+    ],
+    "care": [
+      "Hand wash cold, separately",
+      "Dry in shade",
+      "Warm iron on reverse"
+    ],
+    "tags": [
+      "new"
+    ],
+    "createdAt": "2026-08-16T00:00:00.000Z",
+    "popularity": 57
+  },
+  {
+    "id": "16",
+    "slug": "ruhi-ikat-crepe-saree",
+    "name": "Ruhi Ikat Crepe Saree",
+    "sku": "AV-SAR-0016",
+    "category": "sarees",
+    "subBrand": "couture",
+    "collections": [],
+    "occasion": [
+      "Resort"
+    ],
+    "fabric": "Crepe",
+    "technique": "Ikat",
+    "price": 19299,
+    "compareAtPrice": null,
+    "colors": [
+      {
+        "name": "Blush",
+        "hex": "#E3B5A8"
+      }
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "stock": {
+      "Free Size": 4
+    },
+    "images": [
+      {
+        "src": "/placeholder/products/ruhi-ikat-crepe-saree-1.webp",
+        "alt": "Ruhi Ikat Crepe Saree, blush, front view"
+      },
+      {
+        "src": "/placeholder/products/ruhi-ikat-crepe-saree-2.webp",
+        "alt": "Ruhi Ikat Crepe Saree, blush, back view"
+      },
+      {
+        "src": "/placeholder/products/ruhi-ikat-crepe-saree-3.webp",
+        "alt": "Ruhi Ikat Crepe Saree, blush, detail of the craftwork"
+      },
+      {
+        "src": "/placeholder/products/ruhi-ikat-crepe-saree-4.webp",
+        "alt": "Ruhi Ikat Crepe Saree, blush, styled look"
+      }
+    ],
+    "description": "A ikat saree in crepe, finished by hand. Placeholder description: replace with client copy.",
+    "details": [
+      "Ikat detailing",
+      "Standard size",
+      "Crepe with soft lining where needed",
+      "Made in India"
+    ],
+    "care": [
+      "Hand wash cold, separately",
+      "Dry in shade",
+      "Warm iron on reverse"
+    ],
+    "tags": [
+      "new"
+    ],
+    "createdAt": "2026-07-05T00:00:00.000Z",
+    "popularity": 347
+  },
+  {
+    "id": "17",
+    "slug": "aab-bandhani-organza-saree",
+    "name": "Aab Bandhani Organza Saree",
+    "sku": "AV-SAR-0017",
+    "category": "sarees",
+    "subBrand": "couture",
+    "collections": [],
+    "occasion": [
+      "Everyday",
+      "Resort"
+    ],
+    "fabric": "Organza",
+    "technique": "Bandhani",
+    "price": 19299,
+    "compareAtPrice": null,
+    "colors": [
+      {
+        "name": "Teal",
+        "hex": "#24636A"
+      },
+      {
+        "name": "Rust",
+        "hex": "#B5532F"
+      },
+      {
+        "name": "Ivory",
+        "hex": "#EFE6D4"
+      }
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "stock": {
+      "Free Size": 11
+    },
+    "images": [
+      {
+        "src": "/placeholder/products/aab-bandhani-organza-saree-1.webp",
+        "alt": "Aab Bandhani Organza Saree, teal, front view"
+      },
+      {
+        "src": "/placeholder/products/aab-bandhani-organza-saree-2.webp",
+        "alt": "Aab Bandhani Organza Saree, teal, back view"
+      },
+      {
+        "src": "/placeholder/products/aab-bandhani-organza-saree-3.webp",
+        "alt": "Aab Bandhani Organza Saree, teal, detail of the craftwork"
+      },
+      {
+        "src": "/placeholder/products/aab-bandhani-organza-saree-4.webp",
+        "alt": "Aab Bandhani Organza Saree, teal, styled look"
+      }
+    ],
+    "description": "A bandhani saree in organza, finished by hand. Placeholder description: replace with client copy.",
+    "details": [
+      "Bandhani detailing",
+      "Standard size",
+      "Organza with soft lining where needed",
+      "Made in India"
+    ],
+    "care": [
+      "Dry clean only",
+      "Store in a muslin bag",
+      "Steam iron on reverse"
+    ],
+    "tags": [],
+    "createdAt": "2026-08-07T00:00:00.000Z",
+    "popularity": 574
+  },
+  {
+    "id": "18",
+    "slug": "jharna-block-printed-mul-cotton-saree",
+    "name": "Jharna Block-Printed Mul Cotton Saree",
+    "sku": "AV-SAR-0018",
+    "category": "sarees",
+    "subBrand": "couture",
+    "collections": [],
+    "occasion": [
+      "Resort",
+      "Everyday"
+    ],
+    "fabric": "Mul Cotton",
+    "technique": "Block-Printed",
+    "price": 21999,
+    "compareAtPrice": null,
+    "colors": [
+      {
+        "name": "Coral",
+        "hex": "#E07B63"
+      },
+      {
+        "name": "Sage",
+        "hex": "#8FA382"
+      }
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "stock": {
+      "Free Size": 4
+    },
+    "images": [
+      {
+        "src": "/placeholder/products/jharna-block-printed-mul-cotton-saree-1.webp",
+        "alt": "Jharna Block-Printed Mul Cotton Saree, coral, front view"
+      },
+      {
+        "src": "/placeholder/products/jharna-block-printed-mul-cotton-saree-2.webp",
+        "alt": "Jharna Block-Printed Mul Cotton Saree, coral, back view"
+      },
+      {
+        "src": "/placeholder/products/jharna-block-printed-mul-cotton-saree-3.webp",
+        "alt": "Jharna Block-Printed Mul Cotton Saree, coral, detail of the craftwork"
+      },
+      {
+        "src": "/placeholder/products/jharna-block-printed-mul-cotton-saree-4.webp",
+        "alt": "Jharna Block-Printed Mul Cotton Saree, coral, styled look"
+      }
+    ],
+    "description": "A block-printed saree in mul cotton, finished by hand. Placeholder description: replace with client copy.",
+    "details": [
+      "Block-Printed detailing",
+      "Standard size",
+      "Mul Cotton with soft lining where needed",
+      "Made in India"
+    ],
+    "care": [
+      "Hand wash cold, separately",
+      "Dry in shade",
+      "Warm iron on reverse"
+    ],
+    "tags": [
+      "new"
+    ],
+    "createdAt": "2026-10-07T00:00:00.000Z",
+    "popularity": 558
+  },
+  {
+    "id": "19",
+    "slug": "saba-mirror-work-chanderi-lehenga-set",
+    "name": "Saba Mirror-Work Chanderi Lehenga Set",
+    "sku": "AV-LEH-0019",
+    "category": "lehengas",
+    "subBrand": "couture",
+    "collections": [
+      "festive"
+    ],
+    "occasion": [
+      "Festive",
+      "Wedding Guest"
+    ],
+    "fabric": "Chanderi",
+    "technique": "Mirror-Work",
+    "price": 27799,
+    "compareAtPrice": 30899,
+    "colors": [
+      {
+        "name": "Ivory",
+        "hex": "#EFE6D4"
+      },
+      {
+        "name": "Maroon",
+        "hex": "#6E1F2B"
+      },
+      {
+        "name": "Teal",
+        "hex": "#24636A"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "XS": 10,
+      "S": 0,
+      "M": 9,
+      "L": 4,
+      "XL": 9,
+      "XXL": 5
+    },
+    "images": [
+      {
+        "src": "/placeholder/products/saba-mirror-work-chanderi-lehenga-set-1.webp",
+        "alt": "Saba Mirror-Work Chanderi Lehenga Set, ivory, front view"
+      },
+      {
+        "src": "/placeholder/products/saba-mirror-work-chanderi-lehenga-set-2.webp",
+        "alt": "Saba Mirror-Work Chanderi Lehenga Set, ivory, back view"
+      },
+      {
+        "src": "/placeholder/products/saba-mirror-work-chanderi-lehenga-set-3.webp",
+        "alt": "Saba Mirror-Work Chanderi Lehenga Set, ivory, detail of the craftwork"
+      },
+      {
+        "src": "/placeholder/products/saba-mirror-work-chanderi-lehenga-set-4.webp",
+        "alt": "Saba Mirror-Work Chanderi Lehenga Set, ivory, styled look"
+      },
+      {
+        "src": "/placeholder/products/saba-mirror-work-chanderi-lehenga-set-5.webp",
+        "alt": "Saba Mirror-Work Chanderi Lehenga Set, ivory, fabric texture close-up"
+      },
+      {
+        "src": "/placeholder/products/saba-mirror-work-chanderi-lehenga-set-6.webp",
+        "alt": "Saba Mirror-Work Chanderi Lehenga Set, ivory, side view"
+      }
+    ],
+    "description": "A mirror-work lehenga set in chanderi, finished by hand. Placeholder description: replace with client copy.",
+    "details": [
+      "Mirror-Work detailing",
+      "Relaxed fit; true to size",
+      "Chanderi with soft lining where needed",
+      "Made in India"
+    ],
+    "care": [
+      "Hand wash cold, separately",
+      "Dry in shade",
+      "Warm iron on reverse"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-12T00:00:00.000Z",
+    "popularity": 577
+  },
+  {
+    "id": "20",
+    "slug": "pankh-block-printed-silk-lehenga-set",
+    "name": "Pankh Block-Printed Silk Lehenga Set",
+    "sku": "AV-LEH-0020",
+    "category": "lehengas",
+    "subBrand": "couture",
+    "collections": [
+      "festive"
+    ],
+    "occasion": [
+      "Wedding Guest"
+    ],
+    "fabric": "Silk",
+    "technique": "Block-Printed",
+    "price": 62499,
+    "compareAtPrice": null,
+    "colors": [
+      {
+        "name": "Lilac",
+        "hex": "#B7A4C9"
+      },
+      {
+        "name": "Mustard",
+        "hex": "#C9962E"
+      },
+      {
+        "name": "Ivory",
+        "hex": "#EFE6D4"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "XS": 2,
+      "S": 1,
+      "M": 0,
+      "L": 10,
+      "XL": 3,
+      "XXL": 5
+    },
+    "images": [
+      {
+        "src": "/placeholder/products/pankh-block-printed-silk-lehenga-set-1.webp",
+        "alt": "Pankh Block-Printed Silk Lehenga Set, lilac, front view"
+      },
+      {
+        "src": "/placeholder/products/pankh-block-printed-silk-lehenga-set-2.webp",
+        "alt": "Pankh Block-Printed Silk Lehenga Set, lilac, back view"
+      },
+      {
+        "src": "/placeholder/products/pankh-block-printed-silk-lehenga-set-3.webp",
+        "alt": "Pankh Block-Printed Silk Lehenga Set, lilac, detail of the craftwork"
+      },
+      {
+        "src": "/placeholder/products/pankh-block-printed-silk-lehenga-set-4.webp",
+        "alt": "Pankh Block-Printed Silk Lehenga Set, lilac, styled look"
+      }
+    ],
+    "description": "A block-printed lehenga set in silk, finished by hand. Placeholder description: replace with client copy.",
+    "details": [
+      "Block-Printed detailing",
+      "Relaxed fit; true to size",
+      "Silk with soft lining where needed",
+      "Made in India"
+    ],
+    "care": [
+      "Dry clean only",
+      "Store in a muslin bag",
+      "Steam iron on reverse"
+    ],
+    "tags": [
+      "bestseller"
+    ],
+    "createdAt": "2026-10-14T00:00:00.000Z",
+    "popularity": 635
+  },
+  {
+    "id": "21",
+    "slug": "meera-zari-organza-lehenga-set",
+    "name": "Meera Zari Organza Lehenga Set",
+    "sku": "AV-LEH-0021",
+    "category": "lehengas",
+    "subBrand": "couture",
+    "collections": [
+      "festive",
+      "summer-linen"
+    ],
+    "occasion": [
+      "Festive",
+      "Wedding Guest"
+    ],
+    "fabric": "Organza",
+    "technique": "Zari",
+    "price": 31999,
+    "compareAtPrice": null,
+    "colors": [
+      {
+        "name": "Ivory",
+        "hex": "#EFE6D4"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "XS": 5,
+      "S": 10,
+      "M": 0,
+      "L": 0,
+      "XL": 10,
+      "XXL": 14
+    },
+    "images": [
+      {
+        "src": "/placeholder/products/meera-zari-organza-lehenga-set-1.webp",
+        "alt": "Meera Zari Organza Lehenga Set, ivory, front view"
+      },
+      {
+        "src": "/placeholder/products/meera-zari-organza-lehenga-set-2.webp",
+        "alt": "Meera Zari Organza Lehenga Set, ivory, back view"
+      },
+      {
+        "src": "/placeholder/products/meera-zari-organza-lehenga-set-3.webp",
+        "alt": "Meera Zari Organza Lehenga Set, ivory, detail of the craftwork"
+      },
+      {
+        "src": "/placeholder/products/meera-zari-organza-lehenga-set-4.webp",
+        "alt": "Meera Zari Organza Lehenga Set, ivory, styled look"
+      },
+      {
+        "src": "/placeholder/products/meera-zari-organza-lehenga-set-5.webp",
+        "alt": "Meera Zari Organza Lehenga Set, ivory, fabric texture close-up"
+      },
+      {
+        "src": "/placeholder/products/meera-zari-organza-lehenga-set-6.webp",
+        "alt": "Meera Zari Organza Lehenga Set, ivory, side view"
+      }
+    ],
+    "description": "A zari lehenga set in organza, finished by hand. Placeholder description: replace with client copy.",
+    "details": [
+      "Zari detailing",
+      "Relaxed fit; true to size",
+      "Organza with soft lining where needed",
+      "Made in India"
+    ],
+    "care": [
+      "Dry clean only",
+      "Store in a muslin bag",
+      "Steam iron on reverse"
+    ],
+    "tags": [
+      "new"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "popularity": 103
+  },
+  {
+    "id": "22",
+    "slug": "zoya-mirror-work-silk-lehenga-set",
+    "name": "Zoya Mirror-Work Silk Lehenga Set",
+    "sku": "AV-LEH-0022",
+    "category": "lehengas",
+    "subBrand": "couture",
+    "collections": [],
+    "occasion": [
+      "Wedding Guest"
+    ],
+    "fabric": "Silk",
+    "technique": "Mirror-Work",
+    "price": 58999,
+    "compareAtPrice": null,
+    "colors": [
+      {
+        "name": "Ivory",
+        "hex": "#EFE6D4"
+      },
+      {
+        "name": "Teal",
+        "hex": "#24636A"
+      },
+      {
+        "name": "Rust",
+        "hex": "#B5532F"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "XS": 4,
+      "S": 8,
+      "M": 5,
+      "L": 0,
+      "XL": 0,
+      "XXL": 0
+    },
+    "images": [
+      {
+        "src": "/placeholder/products/zoya-mirror-work-silk-lehenga-set-1.webp",
+        "alt": "Zoya Mirror-Work Silk Lehenga Set, ivory, front view"
+      },
+      {
+        "src": "/placeholder/products/zoya-mirror-work-silk-lehenga-set-2.webp",
+        "alt": "Zoya Mirror-Work Silk Lehenga Set, ivory, back view"
+      },
+      {
+        "src": "/placeholder/products/zoya-mirror-work-silk-lehenga-set-3.webp",
+        "alt": "Zoya Mirror-Work Silk Lehenga Set, ivory, detail of the craftwork"
+      },
+      {
+        "src": "/placeholder/products/zoya-mirror-work-silk-lehenga-set-4.webp",
+        "alt": "Zoya Mirror-Work Silk Lehenga Set, ivory, styled look"
+      },
+      {
+        "src": "/placeholder/products/zoya-mirror-work-silk-lehenga-set-5.webp",
+        "alt": "Zoya Mirror-Work Silk Lehenga Set, ivory, fabric texture close-up"
+      }
+    ],
+    "description": "A mirror-work lehenga set in silk, finished by hand. Placeholder description: replace with client copy.",
+    "details": [
+      "Mirror-Work detailing",
+      "Relaxed fit; true to size",
+      "Silk with soft lining where needed",
+      "Made in India"
+    ],
+    "care": [
+      "Dry clean only",
+      "Store in a muslin bag",
+      "Steam iron on reverse"
+    ],
+    "tags": [
+      "new"
+    ],
+    "createdAt": "2026-09-15T00:00:00.000Z",
+    "popularity": 493
+  },
+  {
+    "id": "23",
+    "slug": "leher-hand-painted-georgette-lehenga-set",
+    "name": "Leher Hand-Painted Georgette Lehenga Set",
+    "sku": "AV-LEH-0023",
+    "category": "lehengas",
+    "subBrand": "couture",
+    "collections": [],
+    "occasion": [
+      "Workwear",
+      "Wedding Guest"
+    ],
+    "fabric": "Georgette",
+    "technique": "Hand-Painted",
+    "price": 36799,
+    "compareAtPrice": null,
+    "colors": [
+      {
+        "name": "Lilac",
+        "hex": "#B7A4C9"
+      },
+      {
+        "name": "Black",
+        "hex": "#222222"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "XS": 0,
+      "S": 14,
+      "M": 14,
+      "L": 8,
+      "XL": 0,
+      "XXL": 8
+    },
+    "images": [
+      {
+        "src": "/placeholder/products/leher-hand-painted-georgette-lehenga-set-1.webp",
+        "alt": "Leher Hand-Painted Georgette Lehenga Set, lilac, front view"
+      },
+      {
+        "src": "/placeholder/products/leher-hand-painted-georgette-lehenga-set-2.webp",
+        "alt": "Leher Hand-Painted Georgette Lehenga Set, lilac, back view"
+      },
+      {
+        "src": "/placeholder/products/leher-hand-painted-georgette-lehenga-set-3.webp",
+        "alt": "Leher Hand-Painted Georgette Lehenga Set, lilac, detail of the craftwork"
+      },
+      {
+        "src": "/placeholder/products/leher-hand-painted-georgette-lehenga-set-4.webp",
+        "alt": "Leher Hand-Painted Georgette Lehenga Set, lilac, styled look"
+      },
+      {
+        "src": "/placeholder/products/leher-hand-painted-georgette-lehenga-set-5.webp",
+        "alt": "Leher Hand-Painted Georgette Lehenga Set, lilac, fabric texture close-up"
+      }
+    ],
+    "description": "A hand-painted lehenga set in georgette, finished by hand. Placeholder description: replace with client copy.",
+    "details": [
+      "Hand-Painted detailing",
+      "Relaxed fit; true to size",
+      "Georgette with soft lining where needed",
+      "Made in India"
+    ],
+    "care": [
+      "Hand wash cold, separately",
+      "Dry in shade",
+      "Warm iron on reverse"
+    ],
+    "tags": [],
+    "createdAt": "2026-08-24T00:00:00.000Z",
+    "popularity": 970
+  },
+  {
+    "id": "24",
+    "slug": "rewa-chikankari-georgette-lehenga-set",
+    "name": "Rewa Chikankari Georgette Lehenga Set",
+    "sku": "AV-LEH-0024",
+    "category": "lehengas",
+    "subBrand": "couture",
+    "collections": [],
+    "occasion": [
+      "Everyday",
+      "Wedding Guest"
+    ],
+    "fabric": "Georgette",
+    "technique": "Chikankari",
+    "price": 35899,
+    "compareAtPrice": null,
+    "colors": [
+      {
+        "name": "Ivory",
+        "hex": "#EFE6D4"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "XS": 7,
+      "S": 10,
+      "M": 0,
+      "L": 3,
+      "XL": 2,
+      "XXL": 12
+    },
+    "images": [
+      {
+        "src": "/placeholder/products/rewa-chikankari-georgette-lehenga-set-1.webp",
+        "alt": "Rewa Chikankari Georgette Lehenga Set, ivory, front view"
+      },
+      {
+        "src": "/placeholder/products/rewa-chikankari-georgette-lehenga-set-2.webp",
+        "alt": "Rewa Chikankari Georgette Lehenga Set, ivory, back view"
+      },
+      {
+        "src": "/placeholder/products/rewa-chikankari-georgette-lehenga-set-3.webp",
+        "alt": "Rewa Chikankari Georgette Lehenga Set, ivory, detail of the craftwork"
+      },
+      {
+        "src": "/placeholder/products/rewa-chikankari-georgette-lehenga-set-4.webp",
+        "alt": "Rewa Chikankari Georgette Lehenga Set, ivory, styled look"
+      },
+      {
+        "src": "/placeholder/products/rewa-chikankari-georgette-lehenga-set-5.webp",
+        "alt": "Rewa Chikankari Georgette Lehenga Set, ivory, fabric texture close-up"
+      }
+    ],
+    "description": "A chikankari lehenga set in georgette, finished by hand. Placeholder description: replace with client copy.",
+    "details": [
+      "Chikankari detailing",
+      "Relaxed fit; true to size",
+      "Georgette with soft lining where needed",
+      "Made in India"
+    ],
+    "care": [
+      "Hand wash cold, separately",
+      "Dry in shade",
+      "Warm iron on reverse"
+    ],
+    "tags": [],
+    "createdAt": "2026-09-04T00:00:00.000Z",
+    "popularity": 629
+  },
+  {
+    "id": "25",
+    "slug": "neel-bandhani-silk-dress",
+    "name": "Neel Bandhani Silk Dress",
+    "sku": "AV-DRE-0025",
+    "category": "dresses",
+    "subBrand": "couture",
+    "collections": [
+      "summer-linen"
+    ],
+    "occasion": [
+      "Festive",
+      "Wedding Guest"
+    ],
+    "fabric": "Silk",
+    "technique": "Bandhani",
+    "price": 7099,
+    "compareAtPrice": null,
+    "colors": [
+      {
+        "name": "Sage",
+        "hex": "#8FA382"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "XS": 5,
+      "S": 0,
+      "M": 8,
+      "L": 5,
+      "XL": 1,
+      "XXL": 8
+    },
+    "images": [
+      {
+        "src": "/placeholder/products/neel-bandhani-silk-dress-1.webp",
+        "alt": "Neel Bandhani Silk Dress, sage, front view"
+      },
+      {
+        "src": "/placeholder/products/neel-bandhani-silk-dress-2.webp",
+        "alt": "Neel Bandhani Silk Dress, sage, back view"
+      },
+      {
+        "src": "/placeholder/products/neel-bandhani-silk-dress-3.webp",
+        "alt": "Neel Bandhani Silk Dress, sage, detail of the craftwork"
+      },
+      {
+        "src": "/placeholder/products/neel-bandhani-silk-dress-4.webp",
+        "alt": "Neel Bandhani Silk Dress, sage, styled look"
+      },
+      {
+        "src": "/placeholder/products/neel-bandhani-silk-dress-5.webp",
+        "alt": "Neel Bandhani Silk Dress, sage, fabric texture close-up"
+      },
+      {
+        "src": "/placeholder/products/neel-bandhani-silk-dress-6.webp",
+        "alt": "Neel Bandhani Silk Dress, sage, side view"
+      }
+    ],
+    "description": "A bandhani dress in silk, finished by hand. Placeholder description: replace with client copy.",
+    "details": [
+      "Bandhani detailing",
+      "Relaxed fit; true to size",
+      "Silk with soft lining where needed",
+      "Made in India"
+    ],
+    "care": [
+      "Dry clean only",
+      "Store in a muslin bag",
+      "Steam iron on reverse"
+    ],
+    "tags": [
+      "new"
+    ],
+    "createdAt": "2026-07-15T00:00:00.000Z",
+    "popularity": 164
+  },
+  {
+    "id": "26",
+    "slug": "phool-zari-mul-cotton-dress",
+    "name": "Phool Zari Mul Cotton Dress",
+    "sku": "AV-DRE-0026",
+    "category": "dresses",
+    "subBrand": "everyday",
+    "collections": [],
+    "occasion": [
+      "Wedding Guest"
+    ],
+    "fabric": "Mul Cotton",
+    "technique": "Zari",
+    "price": 3099,
+    "compareAtPrice": null,
+    "colors": [
+      {
+        "name": "Teal",
+        "hex": "#24636A"
+      },
+      {
+        "name": "Black",
+        "hex": "#222222"
+      },
+      {
+        "name": "Ivory",
+        "hex": "#EFE6D4"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "XS": 10,
+      "S": 11,
+      "M": 13,
+      "L": 11,
+      "XL": 6,
+      "XXL": 2
+    },
+    "images": [
+      {
+        "src": "/placeholder/products/phool-zari-mul-cotton-dress-1.webp",
+        "alt": "Phool Zari Mul Cotton Dress, teal, front view"
+      },
+      {
+        "src": "/placeholder/products/phool-zari-mul-cotton-dress-2.webp",
+        "alt": "Phool Zari Mul Cotton Dress, teal, back view"
+      },
+      {
+        "src": "/placeholder/products/phool-zari-mul-cotton-dress-3.webp",
+        "alt": "Phool Zari Mul Cotton Dress, teal, detail of the craftwork"
+      },
+      {
+        "src": "/placeholder/products/phool-zari-mul-cotton-dress-4.webp",
+        "alt": "Phool Zari Mul Cotton Dress, teal, styled look"
+      }
+    ],
+    "description": "A zari dress in mul cotton, finished by hand. Placeholder description: replace with client copy.",
+    "details": [
+      "Zari detailing",
+      "Relaxed fit; true to size",
+      "Mul Cotton with soft lining where needed",
+      "Made in India"
+    ],
+    "care": [
+      "Hand wash cold, separately",
+      "Dry in shade",
+      "Warm iron on reverse"
+    ],
+    "tags": [
+      "new",
+      "bestseller"
+    ],
+    "createdAt": "2026-08-19T00:00:00.000Z",
+    "popularity": 223
+  },
+  {
+    "id": "27",
+    "slug": "noor-hand-painted-cotton-dress",
+    "name": "Noor Hand-Painted Cotton Dress",
+    "sku": "AV-DRE-0027",
+    "category": "dresses",
+    "subBrand": "everyday",
+    "collections": [
+      "festive",
+      "summer-linen"
+    ],
+    "occasion": [
+      "Everyday"
+    ],
+    "fabric": "Cotton",
+    "technique": "Hand-Painted",
+    "price": 6799,
+    "compareAtPrice": 8499,
+    "colors": [
+      {
+        "name": "Maroon",
+        "hex": "#6E1F2B"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "XS": 8,
+      "S": 7,
+      "M": 8,
+      "L": 3,
+      "XL": 14,
+      "XXL": 10
+    },
+    "images": [
+      {
+        "src": "/placeholder/products/noor-hand-painted-cotton-dress-1.webp",
+        "alt": "Noor Hand-Painted Cotton Dress, maroon, front view"
+      },
+      {
+        "src": "/placeholder/products/noor-hand-painted-cotton-dress-2.webp",
+        "alt": "Noor Hand-Painted Cotton Dress, maroon, back view"
+      },
+      {
+        "src": "/placeholder/products/noor-hand-painted-cotton-dress-3.webp",
+        "alt": "Noor Hand-Painted Cotton Dress, maroon, detail of the craftwork"
+      },
+      {
+        "src": "/placeholder/products/noor-hand-painted-cotton-dress-4.webp",
+        "alt": "Noor Hand-Painted Cotton Dress, maroon, styled look"
+      },
+      {
+        "src": "/placeholder/products/noor-hand-painted-cotton-dress-5.webp",
+        "alt": "Noor Hand-Painted Cotton Dress, maroon, fabric texture close-up"
+      }
+    ],
+    "description": "A hand-painted dress in cotton, finished by hand. Placeholder description: replace with client copy.",
+    "details": [
+      "Hand-Painted detailing",
+      "Relaxed fit; true to size",
+      "Cotton with soft lining where needed",
+      "Made in India"
+    ],
+    "care": [
+      "Hand wash cold, separately",
+      "Dry in shade",
+      "Warm iron on reverse"
+    ],
+    "tags": [
+      "bestseller"
+    ],
+    "createdAt": "2026-10-25T00:00:00.000Z",
+    "popularity": 793
+  },
+  {
+    "id": "28",
+    "slug": "jharna-embroidered-chanderi-dress",
+    "name": "Jharna Embroidered Chanderi Dress",
+    "sku": "AV-DRE-0028",
+    "category": "dresses",
+    "subBrand": "couture",
+    "collections": [],
+    "occasion": [
+      "Workwear",
+      "Everyday"
+    ],
+    "fabric": "Chanderi",
+    "technique": "Embroidered",
+    "price": 4199,
+    "compareAtPrice": null,
+    "colors": [
+      {
+        "name": "Blush",
+        "hex": "#E3B5A8"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "XS": 10,
+      "S": 10,
+      "M": 8,
+      "L": 2,
+      "XL": 5,
+      "XXL": 0
+    },
+    "images": [
+      {
+        "src": "/placeholder/products/jharna-embroidered-chanderi-dress-1.webp",
+        "alt": "Jharna Embroidered Chanderi Dress, blush, front view"
+      },
+      {
+        "src": "/placeholder/products/jharna-embroidered-chanderi-dress-2.webp",
+        "alt": "Jharna Embroidered Chanderi Dress, blush, back view"
+      },
+      {
+        "src": "/placeholder/products/jharna-embroidered-chanderi-dress-3.webp",
+        "alt": "Jharna Embroidered Chanderi Dress, blush, detail of the craftwork"
+      },
+      {
+        "src": "/placeholder/products/jharna-embroidered-chanderi-dress-4.webp",
+        "alt": "Jharna Embroidered Chanderi Dress, blush, styled look"
+      },
+      {
+        "src": "/placeholder/products/jharna-embroidered-chanderi-dress-5.webp",
+        "alt": "Jharna Embroidered Chanderi Dress, blush, fabric texture close-up"
+      }
+    ],
+    "description": "A embroidered dress in chanderi, finished by hand. Placeholder description: replace with client copy.",
+    "details": [
+      "Embroidered detailing",
+      "Relaxed fit; true to size",
+      "Chanderi with soft lining where needed",
+      "Made in India"
+    ],
+    "care": [
+      "Hand wash cold, separately",
+      "Dry in shade",
+      "Warm iron on reverse"
+    ],
+    "tags": [],
+    "createdAt": "2026-08-24T00:00:00.000Z",
+    "popularity": 727
+  },
+  {
+    "id": "29",
+    "slug": "noor-block-printed-cotton-dress",
+    "name": "Noor Block-Printed Cotton Dress",
+    "sku": "AV-DRE-0029",
+    "category": "dresses",
+    "subBrand": "couture",
+    "collections": [],
+    "occasion": [
+      "Resort",
+      "Wedding Guest"
+    ],
+    "fabric": "Cotton",
+    "technique": "Block-Printed",
+    "price": 2049,
+    "compareAtPrice": 3399,
+    "colors": [
+      {
+        "name": "Teal",
+        "hex": "#24636A"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "XS": 10,
+      "S": 12,
+      "M": 3,
+      "L": 8,
+      "XL": 3,
+      "XXL": 14
+    },
+    "images": [
+      {
+        "src": "/placeholder/products/noor-block-printed-cotton-dress-1.webp",
+        "alt": "Noor Block-Printed Cotton Dress, teal, front view"
+      },
+      {
+        "src": "/placeholder/products/noor-block-printed-cotton-dress-2.webp",
+        "alt": "Noor Block-Printed Cotton Dress, teal, back view"
+      },
+      {
+        "src": "/placeholder/products/noor-block-printed-cotton-dress-3.webp",
+        "alt": "Noor Block-Printed Cotton Dress, teal, detail of the craftwork"
+      },
+      {
+        "src": "/placeholder/products/noor-block-printed-cotton-dress-4.webp",
+        "alt": "Noor Block-Printed Cotton Dress, teal, styled look"
+      },
+      {
+        "src": "/placeholder/products/noor-block-printed-cotton-dress-5.webp",
+        "alt": "Noor Block-Printed Cotton Dress, teal, fabric texture close-up"
+      }
+    ],
+    "description": "A block-printed dress in cotton, finished by hand. Placeholder description: replace with client copy.",
+    "details": [
+      "Block-Printed detailing",
+      "Relaxed fit; true to size",
+      "Cotton with soft lining where needed",
+      "Made in India"
+    ],
+    "care": [
+      "Hand wash cold, separately",
+      "Dry in shade",
+      "Warm iron on reverse"
+    ],
+    "tags": [],
+    "createdAt": "2026-10-10T00:00:00.000Z",
+    "popularity": 669
+  },
+  {
+    "id": "30",
+    "slug": "pankh-bandhani-silk-dress",
+    "name": "Pankh Bandhani Silk Dress",
+    "sku": "AV-DRE-0030",
+    "category": "dresses",
+    "subBrand": "everyday",
+    "collections": [],
+    "occasion": [
+      "Resort"
+    ],
+    "fabric": "Silk",
+    "technique": "Bandhani",
+    "price": 5599,
+    "compareAtPrice": 7499,
+    "colors": [
+      {
+        "name": "Blush",
+        "hex": "#E3B5A8"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "XS": 8,
+      "S": 6,
+      "M": 6,
+      "L": 11,
+      "XL": 5,
+      "XXL": 0
+    },
+    "images": [
+      {
+        "src": "/placeholder/products/pankh-bandhani-silk-dress-1.webp",
+        "alt": "Pankh Bandhani Silk Dress, blush, front view"
+      },
+      {
+        "src": "/placeholder/products/pankh-bandhani-silk-dress-2.webp",
+        "alt": "Pankh Bandhani Silk Dress, blush, back view"
+      },
+      {
+        "src": "/placeholder/products/pankh-bandhani-silk-dress-3.webp",
+        "alt": "Pankh Bandhani Silk Dress, blush, detail of the craftwork"
+      },
+      {
+        "src": "/placeholder/products/pankh-bandhani-silk-dress-4.webp",
+        "alt": "Pankh Bandhani Silk Dress, blush, styled look"
+      },
+      {
+        "src": "/placeholder/products/pankh-bandhani-silk-dress-5.webp",
+        "alt": "Pankh Bandhani Silk Dress, blush, fabric texture close-up"
+      },
+      {
+        "src": "/placeholder/products/pankh-bandhani-silk-dress-6.webp",
+        "alt": "Pankh Bandhani Silk Dress, blush, side view"
+      }
+    ],
+    "description": "A bandhani dress in silk, finished by hand. Placeholder description: replace with client copy.",
+    "details": [
+      "Bandhani detailing",
+      "Relaxed fit; true to size",
+      "Silk with soft lining where needed",
+      "Made in India"
+    ],
+    "care": [
+      "Dry clean only",
+      "Store in a muslin bag",
+      "Steam iron on reverse"
+    ],
+    "tags": [],
+    "createdAt": "2026-07-17T00:00:00.000Z",
+    "popularity": 543
+  },
+  {
+    "id": "31",
+    "slug": "inaaya-hand-painted-mul-cotton-co-ord-set",
+    "name": "Inaaya Hand-Painted Mul Cotton Co-ord Set",
+    "sku": "AV-CO--0031",
+    "category": "co-ords",
+    "subBrand": "couture",
+    "collections": [
+      "summer-linen"
+    ],
+    "occasion": [
+      "Workwear",
+      "Everyday"
+    ],
+    "fabric": "Mul Cotton",
+    "technique": "Hand-Painted",
+    "price": 6999,
+    "compareAtPrice": null,
+    "colors": [
+      {
+        "name": "Sage",
+        "hex": "#8FA382"
+      },
+      {
+        "name": "Maroon",
+        "hex": "#6E1F2B"
+      },
+      {
+        "name": "Black",
+        "hex": "#222222"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "XS": 13,
+      "S": 10,
+      "M": 0,
+      "L": 5,
+      "XL": 7,
+      "XXL": 6
+    },
+    "images": [
+      {
+        "src": "/placeholder/products/inaaya-hand-painted-mul-cotton-co-ord-set-1.webp",
+        "alt": "Inaaya Hand-Painted Mul Cotton Co-ord Set, sage, front view"
+      },
+      {
+        "src": "/placeholder/products/inaaya-hand-painted-mul-cotton-co-ord-set-2.webp",
+        "alt": "Inaaya Hand-Painted Mul Cotton Co-ord Set, sage, back view"
+      },
+      {
+        "src": "/placeholder/products/inaaya-hand-painted-mul-cotton-co-ord-set-3.webp",
+        "alt": "Inaaya Hand-Painted Mul Cotton Co-ord Set, sage, detail of the craftwork"
+      },
+      {
+        "src": "/placeholder/products/inaaya-hand-painted-mul-cotton-co-ord-set-4.webp",
+        "alt": "Inaaya Hand-Painted Mul Cotton Co-ord Set, sage, styled look"
+      },
+      {
+        "src": "/placeholder/products/inaaya-hand-painted-mul-cotton-co-ord-set-5.webp",
+        "alt": "Inaaya Hand-Painted Mul Cotton Co-ord Set, sage, fabric texture close-up"
+      }
+    ],
+    "description": "A hand-painted co-ord set in mul cotton, finished by hand. Placeholder description: replace with client copy.",
+    "details": [
+      "Hand-Painted detailing",
+      "Relaxed fit; true to size",
+      "Mul Cotton with soft lining where needed",
+      "Made in India"
+    ],
+    "care": [
+      "Hand wash cold, separately",
+      "Dry in shade",
+      "Warm iron on reverse"
+    ],
+    "tags": [
+      "new"
+    ],
+    "createdAt": "2026-08-22T00:00:00.000Z",
+    "popularity": 4
+  },
+  {
+    "id": "32",
+    "slug": "rewa-embroidered-crepe-co-ord-set",
+    "name": "Rewa Embroidered Crepe Co-ord Set",
+    "sku": "AV-CO--0032",
+    "category": "co-ords",
+    "subBrand": "everyday",
+    "collections": [
+      "summer-linen"
+    ],
+    "occasion": [
+      "Resort",
+      "Workwear"
+    ],
+    "fabric": "Crepe",
+    "technique": "Embroidered",
+    "price": 2899,
+    "compareAtPrice": 4799,
+    "colors": [
+      {
+        "name": "Emerald",
+        "hex": "#1F6B4C"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "XS": 5,
+      "S": 14,
+      "M": 10,
+      "L": 11,
+      "XL": 4,
+      "XXL": 12
+    },
+    "images": [
+      {
+        "src": "/placeholder/products/rewa-embroidered-crepe-co-ord-set-1.webp",
+        "alt": "Rewa Embroidered Crepe Co-ord Set, emerald, front view"
+      },
+      {
+        "src": "/placeholder/products/rewa-embroidered-crepe-co-ord-set-2.webp",
+        "alt": "Rewa Embroidered Crepe Co-ord Set, emerald, back view"
+      },
+      {
+        "src": "/placeholder/products/rewa-embroidered-crepe-co-ord-set-3.webp",
+        "alt": "Rewa Embroidered Crepe Co-ord Set, emerald, detail of the craftwork"
+      },
+      {
+        "src": "/placeholder/products/rewa-embroidered-crepe-co-ord-set-4.webp",
+        "alt": "Rewa Embroidered Crepe Co-ord Set, emerald, styled look"
+      },
+      {
+        "src": "/placeholder/products/rewa-embroidered-crepe-co-ord-set-5.webp",
+        "alt": "Rewa Embroidered Crepe Co-ord Set, emerald, fabric texture close-up"
+      }
+    ],
+    "description": "A embroidered co-ord set in crepe, finished by hand. Placeholder description: replace with client copy.",
+    "details": [
+      "Embroidered detailing",
+      "Relaxed fit; true to size",
+      "Crepe with soft lining where needed",
+      "Made in India"
+    ],
+    "care": [
+      "Hand wash cold, separately",
+      "Dry in shade",
+      "Warm iron on reverse"
+    ],
+    "tags": [
+      "bestseller"
+    ],
+    "createdAt": "2026-09-28T00:00:00.000Z",
+    "popularity": 371
+  },
+  {
+    "id": "33",
+    "slug": "mehr-block-printed-silk-co-ord-set",
+    "name": "Mehr Block-Printed Silk Co-ord Set",
+    "sku": "AV-CO--0033",
+    "category": "co-ords",
+    "subBrand": "everyday",
+    "collections": [],
+    "occasion": [
+      "Festive"
+    ],
+    "fabric": "Silk",
+    "technique": "Block-Printed",
+    "price": 5599,
+    "compareAtPrice": 7499,
+    "colors": [
+      {
+        "name": "Rust",
+        "hex": "#B5532F"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "XS": 6,
+      "S": 2,
+      "M": 7,
+      "L": 8,
+      "XL": 1,
+      "XXL": 1
+    },
+    "images": [
+      {
+        "src": "/placeholder/products/mehr-block-printed-silk-co-ord-set-1.webp",
+        "alt": "Mehr Block-Printed Silk Co-ord Set, rust, front view"
+      },
+      {
+        "src": "/placeholder/products/mehr-block-printed-silk-co-ord-set-2.webp",
+        "alt": "Mehr Block-Printed Silk Co-ord Set, rust, back view"
+      },
+      {
+        "src": "/placeholder/products/mehr-block-printed-silk-co-ord-set-3.webp",
+        "alt": "Mehr Block-Printed Silk Co-ord Set, rust, detail of the craftwork"
+      },
+      {
+        "src": "/placeholder/products/mehr-block-printed-silk-co-ord-set-4.webp",
+        "alt": "Mehr Block-Printed Silk Co-ord Set, rust, styled look"
+      },
+      {
+        "src": "/placeholder/products/mehr-block-printed-silk-co-ord-set-5.webp",
+        "alt": "Mehr Block-Printed Silk Co-ord Set, rust, fabric texture close-up"
+      }
+    ],
+    "description": "A block-printed co-ord set in silk, finished by hand. Placeholder description: replace with client copy.",
+    "details": [
+      "Block-Printed detailing",
+      "Relaxed fit; true to size",
+      "Silk with soft lining where needed",
+      "Made in India"
+    ],
+    "care": [
+      "Dry clean only",
+      "Store in a muslin bag",
+      "Steam iron on reverse"
+    ],
+    "tags": [],
+    "createdAt": "2026-08-03T00:00:00.000Z",
+    "popularity": 197
+  },
+  {
+    "id": "34",
+    "slug": "rewa-block-printed-crepe-co-ord-set",
+    "name": "Rewa Block-Printed Crepe Co-ord Set",
+    "sku": "AV-CO--0034",
+    "category": "co-ords",
+    "subBrand": "couture",
+    "collections": [],
+    "occasion": [
+      "Workwear",
+      "Wedding Guest"
+    ],
+    "fabric": "Crepe",
+    "technique": "Block-Printed",
+    "price": 4099,
+    "compareAtPrice": null,
+    "colors": [
+      {
+        "name": "Maroon",
+        "hex": "#6E1F2B"
+      },
+      {
+        "name": "Sage",
+        "hex": "#8FA382"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "XS": 8,
+      "S": 9,
+      "M": 13,
+      "L": 13,
+      "XL": 8,
+      "XXL": 10
+    },
+    "images": [
+      {
+        "src": "/placeholder/products/rewa-block-printed-crepe-co-ord-set-1.webp",
+        "alt": "Rewa Block-Printed Crepe Co-ord Set, maroon, front view"
+      },
+      {
+        "src": "/placeholder/products/rewa-block-printed-crepe-co-ord-set-2.webp",
+        "alt": "Rewa Block-Printed Crepe Co-ord Set, maroon, back view"
+      },
+      {
+        "src": "/placeholder/products/rewa-block-printed-crepe-co-ord-set-3.webp",
+        "alt": "Rewa Block-Printed Crepe Co-ord Set, maroon, detail of the craftwork"
+      },
+      {
+        "src": "/placeholder/products/rewa-block-printed-crepe-co-ord-set-4.webp",
+        "alt": "Rewa Block-Printed Crepe Co-ord Set, maroon, styled look"
+      }
+    ],
+    "description": "A block-printed co-ord set in crepe, finished by hand. Placeholder description: replace with client copy.",
+    "details": [
+      "Block-Printed detailing",
+      "Relaxed fit; true to size",
+      "Crepe with soft lining where needed",
+      "Made in India"
+    ],
+    "care": [
+      "Hand wash cold, separately",
+      "Dry in shade",
+      "Warm iron on reverse"
+    ],
+    "tags": [
+      "new"
+    ],
+    "createdAt": "2026-08-27T00:00:00.000Z",
+    "popularity": 474
+  },
+  {
+    "id": "35",
+    "slug": "tara-block-printed-cotton-co-ord-set",
+    "name": "Tara Block-Printed Cotton Co-ord Set",
+    "sku": "AV-CO--0035",
+    "category": "co-ords",
+    "subBrand": "everyday",
+    "collections": [
+      "festive"
+    ],
+    "occasion": [
+      "Resort",
+      "Everyday"
+    ],
+    "fabric": "Cotton",
+    "technique": "Block-Printed",
+    "price": 9999,
+    "compareAtPrice": null,
+    "colors": [
+      {
+        "name": "Emerald",
+        "hex": "#1F6B4C"
+      },
+      {
+        "name": "Rust",
+        "hex": "#B5532F"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "XS": 7,
+      "S": 10,
+      "M": 0,
+      "L": 12,
+      "XL": 5,
+      "XXL": 14
+    },
+    "images": [
+      {
+        "src": "/placeholder/products/tara-block-printed-cotton-co-ord-set-1.webp",
+        "alt": "Tara Block-Printed Cotton Co-ord Set, emerald, front view"
+      },
+      {
+        "src": "/placeholder/products/tara-block-printed-cotton-co-ord-set-2.webp",
+        "alt": "Tara Block-Printed Cotton Co-ord Set, emerald, back view"
+      },
+      {
+        "src": "/placeholder/products/tara-block-printed-cotton-co-ord-set-3.webp",
+        "alt": "Tara Block-Printed Cotton Co-ord Set, emerald, detail of the craftwork"
+      },
+      {
+        "src": "/placeholder/products/tara-block-printed-cotton-co-ord-set-4.webp",
+        "alt": "Tara Block-Printed Cotton Co-ord Set, emerald, styled look"
+      },
+      {
+        "src": "/placeholder/products/tara-block-printed-cotton-co-ord-set-5.webp",
+        "alt": "Tara Block-Printed Cotton Co-ord Set, emerald, fabric texture close-up"
+      },
+      {
+        "src": "/placeholder/products/tara-block-printed-cotton-co-ord-set-6.webp",
+        "alt": "Tara Block-Printed Cotton Co-ord Set, emerald, side view"
+      }
+    ],
+    "description": "A block-printed co-ord set in cotton, finished by hand. Placeholder description: replace with client copy.",
+    "details": [
+      "Block-Printed detailing",
+      "Relaxed fit; true to size",
+      "Cotton with soft lining where needed",
+      "Made in India"
+    ],
+    "care": [
+      "Hand wash cold, separately",
+      "Dry in shade",
+      "Warm iron on reverse"
+    ],
+    "tags": [],
+    "createdAt": "2026-07-20T00:00:00.000Z",
+    "popularity": 984
+  },
+  {
+    "id": "36",
+    "slug": "bela-mirror-work-mul-cotton-co-ord-set",
+    "name": "Bela Mirror-Work Mul Cotton Co-ord Set",
+    "sku": "AV-CO--0036",
+    "category": "co-ords",
+    "subBrand": "everyday",
+    "collections": [],
+    "occasion": [
+      "Festive",
+      "Wedding Guest"
+    ],
+    "fabric": "Mul Cotton",
+    "technique": "Mirror-Work",
+    "price": 9499,
+    "compareAtPrice": null,
+    "colors": [
+      {
+        "name": "Sage",
+        "hex": "#8FA382"
+      },
+      {
+        "name": "Teal",
+        "hex": "#24636A"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "XS": 6,
+      "S": 13,
+      "M": 14,
+      "L": 12,
+      "XL": 0,
+      "XXL": 7
+    },
+    "images": [
+      {
+        "src": "/placeholder/products/bela-mirror-work-mul-cotton-co-ord-set-1.webp",
+        "alt": "Bela Mirror-Work Mul Cotton Co-ord Set, sage, front view"
+      },
+      {
+        "src": "/placeholder/products/bela-mirror-work-mul-cotton-co-ord-set-2.webp",
+        "alt": "Bela Mirror-Work Mul Cotton Co-ord Set, sage, back view"
+      },
+      {
+        "src": "/placeholder/products/bela-mirror-work-mul-cotton-co-ord-set-3.webp",
+        "alt": "Bela Mirror-Work Mul Cotton Co-ord Set, sage, detail of the craftwork"
+      },
+      {
+        "src": "/placeholder/products/bela-mirror-work-mul-cotton-co-ord-set-4.webp",
+        "alt": "Bela Mirror-Work Mul Cotton Co-ord Set, sage, styled look"
+      },
+      {
+        "src": "/placeholder/products/bela-mirror-work-mul-cotton-co-ord-set-5.webp",
+        "alt": "Bela Mirror-Work Mul Cotton Co-ord Set, sage, fabric texture close-up"
+      }
+    ],
+    "description": "A mirror-work co-ord set in mul cotton, finished by hand. Placeholder description: replace with client copy.",
+    "details": [
+      "Mirror-Work detailing",
+      "Relaxed fit; true to size",
+      "Mul Cotton with soft lining where needed",
+      "Made in India"
+    ],
+    "care": [
+      "Hand wash cold, separately",
+      "Dry in shade",
+      "Warm iron on reverse"
+    ],
+    "tags": [
+      "new"
+    ],
+    "createdAt": "2026-07-19T00:00:00.000Z",
+    "popularity": 954
+  },
+  {
+    "id": "37",
+    "slug": "kiran-block-printed-crepe-potli-bag",
+    "name": "Kiran Block-Printed Crepe Potli Bag",
+    "sku": "AV-ACC-0037",
+    "category": "accessories",
+    "subBrand": "everyday",
+    "collections": [],
+    "occasion": [
+      "Resort"
+    ],
+    "fabric": "Crepe",
+    "technique": "Block-Printed",
+    "price": 4899,
+    "compareAtPrice": null,
+    "colors": [
+      {
+        "name": "Sage",
+        "hex": "#8FA382"
+      },
+      {
+        "name": "Mustard",
+        "hex": "#C9962E"
+      },
+      {
+        "name": "Emerald",
+        "hex": "#1F6B4C"
+      }
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "stock": {
+      "One Size": 8
+    },
+    "images": [
+      {
+        "src": "/placeholder/products/kiran-block-printed-crepe-potli-bag-1.webp",
+        "alt": "Kiran Block-Printed Crepe Potli Bag, sage, front view"
+      },
+      {
+        "src": "/placeholder/products/kiran-block-printed-crepe-potli-bag-2.webp",
+        "alt": "Kiran Block-Printed Crepe Potli Bag, sage, back view"
+      },
+      {
+        "src": "/placeholder/products/kiran-block-printed-crepe-potli-bag-3.webp",
+        "alt": "Kiran Block-Printed Crepe Potli Bag, sage, detail of the craftwork"
+      },
+      {
+        "src": "/placeholder/products/kiran-block-printed-crepe-potli-bag-4.webp",
+        "alt": "Kiran Block-Printed Crepe Potli Bag, sage, styled look"
+      },
+      {
+        "src": "/placeholder/products/kiran-block-printed-crepe-potli-bag-5.webp",
+        "alt": "Kiran Block-Printed Crepe Potli Bag, sage, fabric texture close-up"
+      },
+      {
+        "src": "/placeholder/products/kiran-block-printed-crepe-potli-bag-6.webp",
+        "alt": "Kiran Block-Printed Crepe Potli Bag, sage, side view"
+      }
+    ],
+    "description": "A block-printed potli bag in crepe, finished by hand. Placeholder description: replace with client copy.",
+    "details": [
+      "Block-Printed detailing",
+      "Standard size",
+      "Crepe with soft lining where needed",
+      "Made in India"
+    ],
+    "care": [
+      "Hand wash cold, separately",
+      "Dry in shade",
+      "Warm iron on reverse"
+    ],
+    "tags": [],
+    "createdAt": "2026-07-08T00:00:00.000Z",
+    "popularity": 540
+  },
+  {
+    "id": "38",
+    "slug": "aab-embroidered-linen-potli-bag",
+    "name": "Aab Embroidered Linen Potli Bag",
+    "sku": "AV-ACC-0038",
+    "category": "accessories",
+    "subBrand": "everyday",
+    "collections": [],
+    "occasion": [
+      "Festive",
+      "Wedding Guest"
+    ],
+    "fabric": "Linen",
+    "technique": "Embroidered",
+    "price": 3899,
+    "compareAtPrice": null,
+    "colors": [
+      {
+        "name": "Coral",
+        "hex": "#E07B63"
+      },
+      {
+        "name": "Mustard",
+        "hex": "#C9962E"
+      },
+      {
+        "name": "Ivory",
+        "hex": "#EFE6D4"
+      }
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "stock": {
+      "One Size": 12
+    },
+    "images": [
+      {
+        "src": "/placeholder/products/aab-embroidered-linen-potli-bag-1.webp",
+        "alt": "Aab Embroidered Linen Potli Bag, coral, front view"
+      },
+      {
+        "src": "/placeholder/products/aab-embroidered-linen-potli-bag-2.webp",
+        "alt": "Aab Embroidered Linen Potli Bag, coral, back view"
+      },
+      {
+        "src": "/placeholder/products/aab-embroidered-linen-potli-bag-3.webp",
+        "alt": "Aab Embroidered Linen Potli Bag, coral, detail of the craftwork"
+      },
+      {
+        "src": "/placeholder/products/aab-embroidered-linen-potli-bag-4.webp",
+        "alt": "Aab Embroidered Linen Potli Bag, coral, styled look"
+      },
+      {
+        "src": "/placeholder/products/aab-embroidered-linen-potli-bag-5.webp",
+        "alt": "Aab Embroidered Linen Potli Bag, coral, fabric texture close-up"
+      },
+      {
+        "src": "/placeholder/products/aab-embroidered-linen-potli-bag-6.webp",
+        "alt": "Aab Embroidered Linen Potli Bag, coral, side view"
+      }
+    ],
+    "description": "A embroidered potli bag in linen, finished by hand. Placeholder description: replace with client copy.",
+    "details": [
+      "Embroidered detailing",
+      "Standard size",
+      "Linen with soft lining where needed",
+      "Made in India"
+    ],
+    "care": [
+      "Hand wash cold, separately",
+      "Dry in shade",
+      "Warm iron on reverse"
+    ],
+    "tags": [
+      "new",
+      "bestseller"
+    ],
+    "createdAt": "2026-08-06T00:00:00.000Z",
+    "popularity": 198
+  },
+  {
+    "id": "39",
+    "slug": "ruhi-ikat-mul-cotton-potli-bag",
+    "name": "Ruhi Ikat Mul Cotton Potli Bag",
+    "sku": "AV-ACC-0039",
+    "category": "accessories",
+    "subBrand": "everyday",
+    "collections": [],
+    "occasion": [
+      "Resort",
+      "Everyday"
+    ],
+    "fabric": "Mul Cotton",
+    "technique": "Ikat",
+    "price": 2499,
+    "compareAtPrice": null,
+    "colors": [
+      {
+        "name": "Coral",
+        "hex": "#E07B63"
+      },
+      {
+        "name": "Rust",
+        "hex": "#B5532F"
+      },
+      {
+        "name": "Maroon",
+        "hex": "#6E1F2B"
+      }
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "stock": {
+      "One Size": 12
+    },
+    "images": [
+      {
+        "src": "/placeholder/products/ruhi-ikat-mul-cotton-potli-bag-1.webp",
+        "alt": "Ruhi Ikat Mul Cotton Potli Bag, coral, front view"
+      },
+      {
+        "src": "/placeholder/products/ruhi-ikat-mul-cotton-potli-bag-2.webp",
+        "alt": "Ruhi Ikat Mul Cotton Potli Bag, coral, back view"
+      },
+      {
+        "src": "/placeholder/products/ruhi-ikat-mul-cotton-potli-bag-3.webp",
+        "alt": "Ruhi Ikat Mul Cotton Potli Bag, coral, detail of the craftwork"
+      },
+      {
+        "src": "/placeholder/products/ruhi-ikat-mul-cotton-potli-bag-4.webp",
+        "alt": "Ruhi Ikat Mul Cotton Potli Bag, coral, styled look"
+      }
+    ],
+    "description": "A ikat potli bag in mul cotton, finished by hand. Placeholder description: replace with client copy.",
+    "details": [
+      "Ikat detailing",
+      "Standard size",
+      "Mul Cotton with soft lining where needed",
+      "Made in India"
+    ],
+    "care": [
+      "Hand wash cold, separately",
+      "Dry in shade",
+      "Warm iron on reverse"
+    ],
+    "tags": [
+      "new"
+    ],
+    "createdAt": "2026-08-29T00:00:00.000Z",
+    "popularity": 983
+  },
+  {
+    "id": "40",
+    "slug": "gulnar-hand-painted-linen-potli-bag",
+    "name": "Gulnar Hand-Painted Linen Potli Bag",
+    "sku": "AV-ACC-0040",
+    "category": "accessories",
+    "subBrand": "everyday",
+    "collections": [],
+    "occasion": [
+      "Everyday",
+      "Wedding Guest"
+    ],
+    "fabric": "Linen",
+    "technique": "Hand-Painted",
+    "price": 1999,
+    "compareAtPrice": null,
+    "colors": [
+      {
+        "name": "Emerald",
+        "hex": "#1F6B4C"
+      },
+      {
+        "name": "Sage",
+        "hex": "#8FA382"
+      },
+      {
+        "name": "Indigo",
+        "hex": "#2F3E6B"
+      }
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "stock": {
+      "One Size": 10
+    },
+    "images": [
+      {
+        "src": "/placeholder/products/gulnar-hand-painted-linen-potli-bag-1.webp",
+        "alt": "Gulnar Hand-Painted Linen Potli Bag, emerald, front view"
+      },
+      {
+        "src": "/placeholder/products/gulnar-hand-painted-linen-potli-bag-2.webp",
+        "alt": "Gulnar Hand-Painted Linen Potli Bag, emerald, back view"
+      },
+      {
+        "src": "/placeholder/products/gulnar-hand-painted-linen-potli-bag-3.webp",
+        "alt": "Gulnar Hand-Painted Linen Potli Bag, emerald, detail of the craftwork"
+      },
+      {
+        "src": "/placeholder/products/gulnar-hand-painted-linen-potli-bag-4.webp",
+        "alt": "Gulnar Hand-Painted Linen Potli Bag, emerald, styled look"
+      }
+    ],
+    "description": "A hand-painted potli bag in linen, finished by hand. Placeholder description: replace with client copy.",
+    "details": [
+      "Hand-Painted detailing",
+      "Standard size",
+      "Linen with soft lining where needed",
+      "Made in India"
+    ],
+    "care": [
+      "Hand wash cold, separately",
+      "Dry in shade",
+      "Warm iron on reverse"
+    ],
+    "tags": [],
+    "createdAt": "2026-07-21T00:00:00.000Z",
+    "popularity": 184
+  },
+  {
+    "id": "41",
+    "slug": "gulnar-hand-painted-silk-potli-bag",
+    "name": "Gulnar Hand-Painted Silk Potli Bag",
+    "sku": "AV-ACC-0041",
+    "category": "accessories",
+    "subBrand": "couture",
+    "collections": [
+      "festive"
+    ],
+    "occasion": [
+      "Everyday"
+    ],
+    "fabric": "Silk",
+    "technique": "Hand-Painted",
+    "price": 1799,
+    "compareAtPrice": null,
+    "colors": [
+      {
+        "name": "Ivory",
+        "hex": "#EFE6D4"
+      },
+      {
+        "name": "Teal",
+        "hex": "#24636A"
+      },
+      {
+        "name": "Rust",
+        "hex": "#B5532F"
+      }
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "stock": {
+      "One Size": 1
+    },
+    "images": [
+      {
+        "src": "/placeholder/products/gulnar-hand-painted-silk-potli-bag-1.webp",
+        "alt": "Gulnar Hand-Painted Silk Potli Bag, ivory, front view"
+      },
+      {
+        "src": "/placeholder/products/gulnar-hand-painted-silk-potli-bag-2.webp",
+        "alt": "Gulnar Hand-Painted Silk Potli Bag, ivory, back view"
+      },
+      {
+        "src": "/placeholder/products/gulnar-hand-painted-silk-potli-bag-3.webp",
+        "alt": "Gulnar Hand-Painted Silk Potli Bag, ivory, detail of the craftwork"
+      },
+      {
+        "src": "/placeholder/products/gulnar-hand-painted-silk-potli-bag-4.webp",
+        "alt": "Gulnar Hand-Painted Silk Potli Bag, ivory, styled look"
+      },
+      {
+        "src": "/placeholder/products/gulnar-hand-painted-silk-potli-bag-5.webp",
+        "alt": "Gulnar Hand-Painted Silk Potli Bag, ivory, fabric texture close-up"
+      },
+      {
+        "src": "/placeholder/products/gulnar-hand-painted-silk-potli-bag-6.webp",
+        "alt": "Gulnar Hand-Painted Silk Potli Bag, ivory, side view"
+      }
+    ],
+    "description": "A hand-painted potli bag in silk, finished by hand. Placeholder description: replace with client copy.",
+    "details": [
+      "Hand-Painted detailing",
+      "Standard size",
+      "Silk with soft lining where needed",
+      "Made in India"
+    ],
+    "care": [
+      "Dry clean only",
+      "Store in a muslin bag",
+      "Steam iron on reverse"
+    ],
+    "tags": [
+      "new"
+    ],
+    "createdAt": "2026-07-26T00:00:00.000Z",
+    "popularity": 951
+  },
+  {
+    "id": "42",
+    "slug": "neel-block-printed-organza-potli-bag",
+    "name": "Neel Block-Printed Organza Potli Bag",
+    "sku": "AV-ACC-0042",
+    "category": "accessories",
+    "subBrand": "everyday",
+    "collections": [],
+    "occasion": [
+      "Festive"
+    ],
+    "fabric": "Organza",
+    "technique": "Block-Printed",
+    "price": 1499,
+    "compareAtPrice": 1999,
+    "colors": [
+      {
+        "name": "Indigo",
+        "hex": "#2F3E6B"
+      }
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "stock": {
+      "One Size": 12
+    },
+    "images": [
+      {
+        "src": "/placeholder/products/neel-block-printed-organza-potli-bag-1.webp",
+        "alt": "Neel Block-Printed Organza Potli Bag, indigo, front view"
+      },
+      {
+        "src": "/placeholder/products/neel-block-printed-organza-potli-bag-2.webp",
+        "alt": "Neel Block-Printed Organza Potli Bag, indigo, back view"
+      },
+      {
+        "src": "/placeholder/products/neel-block-printed-organza-potli-bag-3.webp",
+        "alt": "Neel Block-Printed Organza Potli Bag, indigo, detail of the craftwork"
+      },
+      {
+        "src": "/placeholder/products/neel-block-printed-organza-potli-bag-4.webp",
+        "alt": "Neel Block-Printed Organza Potli Bag, indigo, styled look"
+      },
+      {
+        "src": "/placeholder/products/neel-block-printed-organza-potli-bag-5.webp",
+        "alt": "Neel Block-Printed Organza Potli Bag, indigo, fabric texture close-up"
+      }
+    ],
+    "description": "A block-printed potli bag in organza, finished by hand. Placeholder description: replace with client copy.",
+    "details": [
+      "Block-Printed detailing",
+      "Standard size",
+      "Organza with soft lining where needed",
+      "Made in India"
+    ],
+    "care": [
+      "Dry clean only",
+      "Store in a muslin bag",
+      "Steam iron on reverse"
+    ],
+    "tags": [
+      "new"
+    ],
+    "createdAt": "2026-07-18T00:00:00.000Z",
+    "popularity": 362
+  },
+  {
+    "id": "43",
+    "slug": "kesari-ikat-cotton-cushion-cover",
+    "name": "Kesari Ikat Cotton Cushion Cover",
+    "sku": "AV-HOM-0043",
+    "category": "home-living",
+    "subBrand": "couture",
+    "collections": [],
+    "occasion": [
+      "Resort",
+      "Everyday"
+    ],
+    "fabric": "Cotton",
+    "technique": "Ikat",
+    "price": 2249,
+    "compareAtPrice": 2999,
+    "colors": [
+      {
+        "name": "Indigo",
+        "hex": "#2F3E6B"
+      },
+      {
+        "name": "Rust",
+        "hex": "#B5532F"
+      }
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "stock": {
+      "One Size": 13
+    },
+    "images": [
+      {
+        "src": "/placeholder/products/kesari-ikat-cotton-cushion-cover-1.webp",
+        "alt": "Kesari Ikat Cotton Cushion Cover, indigo, front view"
+      },
+      {
+        "src": "/placeholder/products/kesari-ikat-cotton-cushion-cover-2.webp",
+        "alt": "Kesari Ikat Cotton Cushion Cover, indigo, back view"
+      },
+      {
+        "src": "/placeholder/products/kesari-ikat-cotton-cushion-cover-3.webp",
+        "alt": "Kesari Ikat Cotton Cushion Cover, indigo, detail of the craftwork"
+      },
+      {
+        "src": "/placeholder/products/kesari-ikat-cotton-cushion-cover-4.webp",
+        "alt": "Kesari Ikat Cotton Cushion Cover, indigo, styled look"
+      }
+    ],
+    "description": "A ikat cushion cover in cotton, finished by hand. Placeholder description: replace with client copy.",
+    "details": [
+      "Ikat detailing",
+      "Standard size",
+      "Cotton cover with concealed zip",
+      "Made in India"
+    ],
+    "care": [
+      "Hand wash cold, separately",
+      "Dry in shade",
+      "Warm iron on reverse"
+    ],
+    "tags": [],
+    "createdAt": "2026-07-23T00:00:00.000Z",
+    "popularity": 275
+  },
+  {
+    "id": "44",
+    "slug": "chandni-hand-painted-linen-cushion-cover",
+    "name": "Chandni Hand-Painted Linen Cushion Cover",
+    "sku": "AV-HOM-0044",
+    "category": "home-living",
+    "subBrand": "everyday",
+    "collections": [
+      "festive"
+    ],
+    "occasion": [
+      "Everyday"
+    ],
+    "fabric": "Linen",
+    "technique": "Hand-Painted",
+    "price": 1799,
+    "compareAtPrice": 2599,
+    "colors": [
+      {
+        "name": "Emerald",
+        "hex": "#1F6B4C"
+      },
+      {
+        "name": "Maroon",
+        "hex": "#6E1F2B"
+      },
+      {
+        "name": "Coral",
+        "hex": "#E07B63"
+      }
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "stock": {
+      "One Size": 14
+    },
+    "images": [
+      {
+        "src": "/placeholder/products/chandni-hand-painted-linen-cushion-cover-1.webp",
+        "alt": "Chandni Hand-Painted Linen Cushion Cover, emerald, front view"
+      },
+      {
+        "src": "/placeholder/products/chandni-hand-painted-linen-cushion-cover-2.webp",
+        "alt": "Chandni Hand-Painted Linen Cushion Cover, emerald, back view"
+      },
+      {
+        "src": "/placeholder/products/chandni-hand-painted-linen-cushion-cover-3.webp",
+        "alt": "Chandni Hand-Painted Linen Cushion Cover, emerald, detail of the craftwork"
+      },
+      {
+        "src": "/placeholder/products/chandni-hand-painted-linen-cushion-cover-4.webp",
+        "alt": "Chandni Hand-Painted Linen Cushion Cover, emerald, styled look"
+      }
+    ],
+    "description": "A hand-painted cushion cover in linen, finished by hand. Placeholder description: replace with client copy.",
+    "details": [
+      "Hand-Painted detailing",
+      "Standard size",
+      "Linen cover with concealed zip",
+      "Made in India"
+    ],
+    "care": [
+      "Hand wash cold, separately",
+      "Dry in shade",
+      "Warm iron on reverse"
+    ],
+    "tags": [
+      "bestseller"
+    ],
+    "createdAt": "2026-07-23T00:00:00.000Z",
+    "popularity": 606
+  },
+  {
+    "id": "45",
+    "slug": "inaaya-ikat-cotton-cushion-cover",
+    "name": "Inaaya Ikat Cotton Cushion Cover",
+    "sku": "AV-HOM-0045",
+    "category": "home-living",
+    "subBrand": "couture",
+    "collections": [
+      "festive"
+    ],
+    "occasion": [
+      "Festive",
+      "Wedding Guest"
+    ],
+    "fabric": "Cotton",
+    "technique": "Ikat",
+    "price": 2999,
+    "compareAtPrice": null,
+    "colors": [
+      {
+        "name": "Sage",
+        "hex": "#8FA382"
+      }
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "stock": {
+      "One Size": 12
+    },
+    "images": [
+      {
+        "src": "/placeholder/products/inaaya-ikat-cotton-cushion-cover-1.webp",
+        "alt": "Inaaya Ikat Cotton Cushion Cover, sage, front view"
+      },
+      {
+        "src": "/placeholder/products/inaaya-ikat-cotton-cushion-cover-2.webp",
+        "alt": "Inaaya Ikat Cotton Cushion Cover, sage, back view"
+      },
+      {
+        "src": "/placeholder/products/inaaya-ikat-cotton-cushion-cover-3.webp",
+        "alt": "Inaaya Ikat Cotton Cushion Cover, sage, detail of the craftwork"
+      },
+      {
+        "src": "/placeholder/products/inaaya-ikat-cotton-cushion-cover-4.webp",
+        "alt": "Inaaya Ikat Cotton Cushion Cover, sage, styled look"
+      },
+      {
+        "src": "/placeholder/products/inaaya-ikat-cotton-cushion-cover-5.webp",
+        "alt": "Inaaya Ikat Cotton Cushion Cover, sage, fabric texture close-up"
+      }
+    ],
+    "description": "A ikat cushion cover in cotton, finished by hand. Placeholder description: replace with client copy.",
+    "details": [
+      "Ikat detailing",
+      "Standard size",
+      "Cotton cover with concealed zip",
+      "Made in India"
+    ],
+    "care": [
+      "Hand wash cold, separately",
+      "Dry in shade",
+      "Warm iron on reverse"
+    ],
+    "tags": [
+      "bestseller"
+    ],
+    "createdAt": "2026-09-27T00:00:00.000Z",
+    "popularity": 456
+  },
+  {
+    "id": "46",
+    "slug": "neel-zari-silk-cushion-cover",
+    "name": "Neel Zari Silk Cushion Cover",
+    "sku": "AV-HOM-0046",
+    "category": "home-living",
+    "subBrand": "everyday",
+    "collections": [],
+    "occasion": [
+      "Resort"
+    ],
+    "fabric": "Silk",
+    "technique": "Zari",
+    "price": 1249,
+    "compareAtPrice": 2099,
+    "colors": [
+      {
+        "name": "Lilac",
+        "hex": "#B7A4C9"
+      },
+      {
+        "name": "Maroon",
+        "hex": "#6E1F2B"
+      }
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "stock": {
+      "One Size": 2
+    },
+    "images": [
+      {
+        "src": "/placeholder/products/neel-zari-silk-cushion-cover-1.webp",
+        "alt": "Neel Zari Silk Cushion Cover, lilac, front view"
+      },
+      {
+        "src": "/placeholder/products/neel-zari-silk-cushion-cover-2.webp",
+        "alt": "Neel Zari Silk Cushion Cover, lilac, back view"
+      },
+      {
+        "src": "/placeholder/products/neel-zari-silk-cushion-cover-3.webp",
+        "alt": "Neel Zari Silk Cushion Cover, lilac, detail of the craftwork"
+      },
+      {
+        "src": "/placeholder/products/neel-zari-silk-cushion-cover-4.webp",
+        "alt": "Neel Zari Silk Cushion Cover, lilac, styled look"
+      }
+    ],
+    "description": "A zari cushion cover in silk, finished by hand. Placeholder description: replace with client copy.",
+    "details": [
+      "Zari detailing",
+      "Standard size",
+      "Silk cover with concealed zip",
+      "Made in India"
+    ],
+    "care": [
+      "Dry clean only",
+      "Store in a muslin bag",
+      "Steam iron on reverse"
+    ],
+    "tags": [
+      "new"
+    ],
+    "createdAt": "2026-09-15T00:00:00.000Z",
+    "popularity": 377
+  },
+  {
+    "id": "47",
+    "slug": "leher-bandhani-cotton-cushion-cover",
+    "name": "Leher Bandhani Cotton Cushion Cover",
+    "sku": "AV-HOM-0047",
+    "category": "home-living",
+    "subBrand": "everyday",
+    "collections": [
+      "summer-linen"
+    ],
+    "occasion": [
+      "Festive",
+      "Everyday"
+    ],
+    "fabric": "Cotton",
+    "technique": "Bandhani",
+    "price": 599,
+    "compareAtPrice": 999,
+    "colors": [
+      {
+        "name": "Lilac",
+        "hex": "#B7A4C9"
+      }
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "stock": {
+      "One Size": 6
+    },
+    "images": [
+      {
+        "src": "/placeholder/products/leher-bandhani-cotton-cushion-cover-1.webp",
+        "alt": "Leher Bandhani Cotton Cushion Cover, lilac, front view"
+      },
+      {
+        "src": "/placeholder/products/leher-bandhani-cotton-cushion-cover-2.webp",
+        "alt": "Leher Bandhani Cotton Cushion Cover, lilac, back view"
+      },
+      {
+        "src": "/placeholder/products/leher-bandhani-cotton-cushion-cover-3.webp",
+        "alt": "Leher Bandhani Cotton Cushion Cover, lilac, detail of the craftwork"
+      },
+      {
+        "src": "/placeholder/products/leher-bandhani-cotton-cushion-cover-4.webp",
+        "alt": "Leher Bandhani Cotton Cushion Cover, lilac, styled look"
+      }
+    ],
+    "description": "A bandhani cushion cover in cotton, finished by hand. Placeholder description: replace with client copy.",
+    "details": [
+      "Bandhani detailing",
+      "Standard size",
+      "Cotton cover with concealed zip",
+      "Made in India"
+    ],
+    "care": [
+      "Hand wash cold, separately",
+      "Dry in shade",
+      "Warm iron on reverse"
+    ],
+    "tags": [
+      "new"
+    ],
+    "createdAt": "2026-08-19T00:00:00.000Z",
+    "popularity": 256
+  },
+  {
+    "id": "48",
+    "slug": "kiran-ikat-cotton-cushion-cover",
+    "name": "Kiran Ikat Cotton Cushion Cover",
+    "sku": "AV-HOM-0048",
+    "category": "home-living",
+    "subBrand": "everyday",
+    "collections": [
+      "festive"
+    ],
+    "occasion": [
+      "Everyday"
+    ],
+    "fabric": "Cotton",
+    "technique": "Ikat",
+    "price": 3899,
+    "compareAtPrice": null,
+    "colors": [
+      {
+        "name": "Teal",
+        "hex": "#24636A"
+      }
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "stock": {
+      "One Size": 5
+    },
+    "images": [
+      {
+        "src": "/placeholder/products/kiran-ikat-cotton-cushion-cover-1.webp",
+        "alt": "Kiran Ikat Cotton Cushion Cover, teal, front view"
+      },
+      {
+        "src": "/placeholder/products/kiran-ikat-cotton-cushion-cover-2.webp",
+        "alt": "Kiran Ikat Cotton Cushion Cover, teal, back view"
+      },
+      {
+        "src": "/placeholder/products/kiran-ikat-cotton-cushion-cover-3.webp",
+        "alt": "Kiran Ikat Cotton Cushion Cover, teal, detail of the craftwork"
+      },
+      {
+        "src": "/placeholder/products/kiran-ikat-cotton-cushion-cover-4.webp",
+        "alt": "Kiran Ikat Cotton Cushion Cover, teal, styled look"
+      },
+      {
+        "src": "/placeholder/products/kiran-ikat-cotton-cushion-cover-5.webp",
+        "alt": "Kiran Ikat Cotton Cushion Cover, teal, fabric texture close-up"
+      },
+      {
+        "src": "/placeholder/products/kiran-ikat-cotton-cushion-cover-6.webp",
+        "alt": "Kiran Ikat Cotton Cushion Cover, teal, side view"
+      }
+    ],
+    "description": "A ikat cushion cover in cotton, finished by hand. Placeholder description: replace with client copy.",
+    "details": [
+      "Ikat detailing",
+      "Standard size",
+      "Cotton cover with concealed zip",
+      "Made in India"
+    ],
+    "care": [
+      "Hand wash cold, separately",
+      "Dry in shade",
+      "Warm iron on reverse"
+    ],
+    "tags": [
+      "new"
+    ],
+    "createdAt": "2026-07-05T00:00:00.000Z",
+    "popularity": 67
+  }
+]
